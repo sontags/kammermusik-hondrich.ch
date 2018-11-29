@@ -9,6 +9,8 @@
 /* Typo */
 
 :root {
+    --font-family: 'Cormorant Garamond', serif;
+
     --font-size-large: 32px;
     --line-height-large: 40px;
 

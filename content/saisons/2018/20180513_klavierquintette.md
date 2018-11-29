@@ -3,7 +3,6 @@ title: "Klavierquintette für Violine, Viola, Violoncello, Kontrabass und Klavie
 date: "2018-05-13T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
 concertId: "25"
-image: KlavierQuintett.jpg
 musicians:
 - Heike Dorothee Allardt, Klavier
 - Cordelia Hagmann, Violine

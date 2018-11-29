@@ -4,6 +4,7 @@ date: "2018-04-01T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
 concertId: "24"
 homepage: "www.orionstringtrio.com"
+image: 2018_orionstringtrio.jpg
 musicians:
 - Soyoung Yoon, Violine
 - Veit Hertenstein, Viola
