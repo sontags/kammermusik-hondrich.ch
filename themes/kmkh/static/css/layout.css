@@ -3,7 +3,16 @@
 html, body {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 500;
-    background-color: #fefefe;
+    background-color: rgba(254,254,254,1);
+    font-size: var(--font-size-regular);
+    line-height: var(--line-height-regular);
+}
+
+.text {
+    max-width: 1000px;
+    margin: auto;
+    padding: 25px;
+    padding-right: 45px;
 }
 
 .text>img {
@@ -12,15 +21,6 @@ html, body {
     -webkit-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
     -moz-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
     box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
-}
-
-.text {
-    max-width: 1000px;
-    margin: auto;
-    font-size: 20px;
-    line-height: 26px;
-    padding: 25px;
-    padding-right: 45px;
 }
 
 .text>h1, .text>h2, .text>h3 {
@@ -37,15 +37,13 @@ html, body {
 }
 
 .text>h1 {
-    font-size: 32px;
-    line-height: 40px;
+    font-size: var(--font-size-large);
+    line-height: var(--line-height-large);
     font-style: italic;
 }
 
 .text>h2, .text>h3 {
     text-transform: uppercase;
-    font-size: 20px;
-    line-height: 26px;
 }
 
 .text>ul.musicians {
@@ -69,8 +67,8 @@ html, body {
 }
 
 .list .title {
-    font-size: 28px;
-    line-height: 32px;
+    font-size: var(--font-size-medium);
+    line-height: var(--line-height-medium);
 }
 
 .list .element {
@@ -82,33 +80,84 @@ html, body {
 @media only screen and (min-width: 600px) {
     .text {
         padding: 60px;
+        padding-top: 120px;
         padding-right: 75px;
-        font-size: 24px;
-        line-height: 34px;
-    }
-
-    .text>h1 {
-        font-size: 48px;
-        line-height: 52px;
-    }
-
-    .text>h2, .text>h3 {
-        font-size: 28px;
-        line-height: 32px;
-    }
-
-    .list .title {
-        font-size: 32px;
-        line-height: 40px;
-    }
-
-    .largemenu {
-        display: block;
-        font-size: 20px;
     }
 
     .nav-toggle-label {
-        right: 50px;
-        top: 50px;
+        display: none;
+    }
+
+    .menu {
+        display: block;
+        position: fixed;
+        width: 100%;
+        height: 80px;
+        transition: all .2s;
+        background-color: rgba(254,254,254,0.9);
+    }
+
+    .menu:hover {
+        background-color: black;
+        height: auto;
+        color: white;
+    }
+
+    nav {
+        background-color: transparent;
+        padding-left: 60px;
+        padding-right: 75px;
+        width: auto;
+        max-width: 1000px;
+        margin: auto;
+        height: 80px;
+        display: block;
+        overflow: visible;
+        clear: both;
+    }
+
+    .home, .navigation {
+        font-size: var(--font-size-regular);
+        line-height: var(--line-height-regular);
+        height: 80px;
+        float: right;
+    }
+
+    .home {
+        float: left;
+    }
+
+    .navigation ul.mainmenu {
+    }
+
+    .navigation ul.mainmenu li {
+        float: left;
+        margin: 0;
+        margin-left: 30px;
+        height: 100%;
+    }
+
+    nav a {
+        color: black;
+    }
+
+    .menu:hover nav a {
+        color: white;
+    }
+
+    .menu:hover .subnavigation {
+        width: 100%;
+        height: auto;
+        clear: both;
+        float: right;
+        display: block;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .home {
+        display: flex;
     }
 }

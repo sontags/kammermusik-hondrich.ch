@@ -1,19 +1,42 @@
 /* Layout */
 :root {
-    --grid-gap: 0;
-    --header-height: 44px;
 }
 
 /* Colors */
 :root {
-    --base-color: rgba(255,255,255,1);
-    --accent-color: rgba(180,20,30,1);
-    --text-on-base-color: rgba(0,0,0,1);
-    --text-on-accent-color: rgba(255,255,255,1);
 }
 
 /* Typo */
+
 :root {
-    --font-size-large: 28px;
+    --font-size-large: 32px;
+    --line-height-large: 40px;
+
+    --font-size-medium: 28px;
+    --line-height-medium: 32px;
+
     --font-size-regular: 20px;
+    --line-height-regular: 26px;
+
+    --font-size-small: 16px;
+    --line-height-small: 22px;
+
 }
+
+@media only screen and (min-width: 600px) {
+    :root {
+        --font-size-large: 48px;
+        --line-height-large: 52px;
+
+        --font-size-medium: 32px;
+        --line-height-medium: 40px;
+
+        --font-size-regular: 24px;
+        --line-height-regular: 34px;
+
+        --font-size-small: 18px;
+        --line-height-small: 24px;
+    }
+}
+
+
