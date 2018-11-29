@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Kammermusikkonzerte Hondrich - {{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+        {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+        {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+
+        <base href="{{ .Site.BaseURL }}">
+        <link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
+        <link rel="icon" type="image/png" href="favicon.png" />
+    </head>
+    <body>
+        <div class="container">
+            {{ partial "nav.html" . }}
+            <div class="main">
+                <div class="content">
+                    <div class="text">
+                        {{ block "content" . }}{{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="//post.kammermusik-hondrich.ch/pm.js"></script>
+        <script>
+            var m = new PostMail();
+            m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
+            m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
+            m.notifications.sent = 'Die Nachricht wurde gesendet.';
+            m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
+            m.Init();
+        </script>
+
+    </body>
+</html>

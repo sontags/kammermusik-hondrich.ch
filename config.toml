@@ -1,0 +1,8 @@
+baseURL = "https://beta.kammermusik-hondrich.ch/"
+languageCode = "en-us"
+title = "KMKH"
+theme = "kmkh"
+
+[params]
+  currentSaison = "23"
+

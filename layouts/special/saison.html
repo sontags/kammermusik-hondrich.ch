@@ -1,0 +1,28 @@
+{{ define "content" }}
+<h1>{{ .Name }}</h1>
+
+<h2>Aktuelle Saison</h2>
+
+{{ $currentSaison := .Site.Params.currentSaison}}
+
+{{ range .Sections }}
+{{ $saison := .Param "saison" }}
+{{ if eq $saison $currentSaison }}
+<div><a href="{{ .URL }}">
+    Saison #{{ $saison }}
+</a></div>
+{{ end }}
+{{ end }}
+<br><br>
+<h2>Vergange Saisons</h2>
+
+{{ range .Sections }}
+{{ $saison := .Param "saison" }}
+{{ if ne $saison .Site.Params.currentSaison }}
+<div><a href="{{ .URL }}">
+    Saison #{{ $saison }}
+</a></div>
+{{ end }}
+{{ end }}
+
+{{ end }}

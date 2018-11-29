@@ -1,0 +1,19 @@
+{{ define "content" }}
+<h1>Konzerte der Saison #{{ .CurrentSection.Param "saison" }}</h1>
+
+<div class="list">
+    {{ range .Pages.Reverse }}
+    <div class="element">
+        <a href="{{ .URL }}">
+            <div class="date">
+                {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            </div>
+            <div class="title">
+                {{ .Title }}
+            </div>
+        </a>
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}

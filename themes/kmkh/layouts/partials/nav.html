@@ -1,0 +1,29 @@
+<div class="menu">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle">
+    <label for="nav-toggle" class="nav-toggle-label"><span></span></label>
+    <nav>
+        <div class="navigation">
+            <ul>
+                <li class="zoomable"><a href="/saisons/{{ .Site.Params.currentSaison }}/">Saison #{{ .Site.Params.currentSaison }}</a></li>
+                <ul class="largemenu">
+                    {{ $currentPage := . }}
+                    {{ range .Site.Pages.Reverse }}
+
+                    {{ if eq .Section "saisons" }}{{ if ne .CurrentSection . }}{{ if isset .CurrentSection.Params "saison" }}{{ if eq .CurrentSection.Params.saison .Site.Params.currentSaison }}
+                    <li class="menuitem zoomable">
+                        <a href="{{ .URL }}" class="">
+                            <div class="date">{{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}</div>
+                            <div class="title">{{ .Name }}</div>
+                        </a>
+                    </li>
+                    {{end}}{{end}}{{end}}{{end}}
+
+                    {{end}}
+                </ul>
+                <li class="zoomable"><a href="/saisons">Archiv</a></li>
+                <li class="zoomable"><a href="/infos">Infos</a></li>
+                <li class="zoobable"><a href="/kontakt">Kontakt</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>

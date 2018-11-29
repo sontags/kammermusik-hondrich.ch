@@ -1,0 +1,29 @@
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+
+{{ define "content" }}
+<h2>{{ index $.Site.Data.tage (printf "%d" .Date.Weekday) }}, {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}, {{ .Date.Format "15:04" }} Uhr</h2>
+<h1>{{ .Title }}</h1>
+
+{{ if isset .Params "musicians" }}
+<ul class="musicians">
+    {{ range .Param "musicians" }}
+    <li>{{ . }}</li>
+    {{ end }}
+</ul>
+{{ end }}
+
+{{ if isset .Params "image" }}
+<img src='{{ .Parent.URL }}images/{{.Param "image" }}'>
+{{ end }}
+
+{{ .Content }}
+
+{{ if isset .Params "homepage" }}
+<a href='{{ .Param "homepage" }}'>{{ .Param "homepage" }}</a>
+{{ end }}
+
+
+{{ end }}
+
