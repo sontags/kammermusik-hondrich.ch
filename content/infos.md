@@ -34,4 +34,5 @@ Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus.
 Rückfahrt Hondrich ab 19.09h / 19.23h / 20.09h mit Anschluss an die Züge
 im Bahnhof Spiez Richtung Thun/Bern, Interlaken und Frutigen.
 
-<iframe src='https://map.geo.admin.ch/embed.html?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fdzd9GaMPS9-LudgJA3Avyw&layers_visibility=false,false,true,false,true&layers_timestamp=18641231,,,,&E=2618548.83&N=1169217.56&zoom=12' width='100%' height='600px' frameborder='0' style='border:0'></iframe>
+<iframe src='https://map.geo.admin.ch/embed.html?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fdzd9GaMPS9-LudgJA3Avyw&layers_visibility=false,false,true,false,true&layers_timestamp=18641231,,,,&E=2618612.27&N=1169085.46&zoom=10' width='100%' height='600px' frameborder='0' style='border:0'></iframe>:
+
