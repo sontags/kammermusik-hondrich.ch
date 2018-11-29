@@ -127,6 +127,11 @@ html, body {
         float: right;
     }
 
+    .submenu .date {
+        font-weight: 300;
+        font-style: italic;
+    }
+
     .home {
         float: left;
     }
