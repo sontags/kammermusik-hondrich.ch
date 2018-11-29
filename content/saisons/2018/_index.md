@@ -1,5 +1,5 @@
 ---
-saison: "22"
+saison: 2018
 type: special
 layout: konzerte
 ---

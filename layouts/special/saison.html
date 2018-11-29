@@ -9,18 +9,18 @@
 {{ $saison := .Param "saison" }}
 {{ if eq $saison $currentSaison }}
 <div><a href="{{ .URL }}">
-    Saison #{{ $saison }}
+    Saison {{ $saison }}
 </a></div>
 {{ end }}
 {{ end }}
 <br><br>
-<h2>Vergange Saisons</h2>
+<h2>Vergangene Saisons</h2>
 
 {{ range .Sections }}
 {{ $saison := .Param "saison" }}
 {{ if ne $saison .Site.Params.currentSaison }}
 <div><a href="{{ .URL }}">
-    Saison #{{ $saison }}
+    Saison {{ $saison }}
 </a></div>
 {{ end }}
 {{ end }}
