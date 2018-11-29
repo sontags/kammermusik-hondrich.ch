@@ -15,9 +15,8 @@ html, body {
     padding-right: 45px;
 }
 
-.text>img {
+.text img {
     width: 100%;
-    margin-bottom: 40px;
     -webkit-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
     -moz-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
     box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
@@ -32,8 +31,12 @@ html, body {
     padding-bottom: 30px;
 }
 
-.text em, .text b, .text strong {
+.text b, .text strong {
     font-weight: 700;
+}
+
+.text em {
+    font-style: italic;
 }
 
 .text>h1 {

@@ -15,7 +15,9 @@
 {{ end }}
 
 {{ if isset .Params "image" }}
-<img src='{{ .Parent.URL }}images/{{.Param "image" }}'>
+<p>
+<img src='{{.Param "image" }}'>
+</p>
 {{ end }}
 
 {{ .Content }}

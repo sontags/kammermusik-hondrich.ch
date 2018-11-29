@@ -3,7 +3,7 @@ title: "Zwei Quintette für Violine, Viola, Violoncello, Kontrabass und Klavier"
 date: "2019-05-05T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
 concertId: "25"
-image: KlavierQuintett.jpg
+image: 2019_KlavierQuintett.jpg
 musicians:
 - Heike-Dorothee Allardt, Klavier
 - Fraynni Rui und Misa Stefanovic, Violinen

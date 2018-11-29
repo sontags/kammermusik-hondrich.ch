@@ -6,6 +6,10 @@
 ---
 Fünf Klassische Konzerte im grossen Saal des Inforama Hondrich
 
+![Niesen, Benedicht Friedli, 2010/11](2019_niesen.jpg)
+
+_(Niesen, Benedicht Friedli, 2010/11)_
+
 Liebes Publikum!
 
 Die Kammermusikreihe startet in einem frischen, farbigen Kleid in ihre 23. Saison.
