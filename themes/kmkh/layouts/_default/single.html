@@ -25,7 +25,48 @@
 {{ if isset .Params "homepage" }}
 <a href='{{ .Param "homepage" }}'>{{ .Param "homepage" }}</a>
 {{ end }}
+{{ end }}
 
 
+{{ define "usher" }}
+{{ $currentSaison := .Site.Params.currentSaison }}
+{{ $saison := .CurrentSection.Param "saison" }}
+{{ if and (eq $saison $currentSaison) (isset .Params "concertid") }}
+{{ $cid := .Param "concertid" }}
+<div class="reservation">
+    <div class="usher">
+        <div class="close">
+            close
+        </div>
+        <div class="panel">
+            <div class="booking-first-step">Bitte wählen Sie die Sitzplätze, die Sie reservieren wollen:</div>
+            <div class="usher_map large-map" data-usher-venue-svg="{{$cid}}"></div>
+        </div>
+
+        <div class="panel">
+            <div class="booking-first-step">Geben Sie Namen und Emailadresse an:</div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Name Vorname" class="usher_name" type="text" name="name" data-usher-venue="{{$cid}}"></div>
+                <div class="info"><div class="usher_name_info" data-usher-venue="{{$cid}}"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Email" class="usher_email" type="text" name="email" data-usher-venue="{{$cid}}"></div>
+                <div class="info"><div class="usher_email_info" data-usher-venue="{{$cid}}"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><div class="usher_send button" data-usher-venue="{{$cid}}">Reservieren</div></div>
+                <div class="info"><div class="usher_sent_info" data-usher-venue="{{$cid}}"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="to_reservation" data-venue="{{$cid}}">
+        <div class="book button init-hidden">
+            Plätze buchen
+        </div>
+        <div class="locked init-hidden">Die Reservationen für das Konzert sind geschlossen.<br>Eintritte sind an der Abendkasse erhältlich.</div>
+    </div>
+</div>
+{{ end }}
 {{ end }}
 

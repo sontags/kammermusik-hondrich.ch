@@ -222,27 +222,101 @@ und Konzertdiplom) und Kontrabass bei Béla Szedlàk (Lehr- und Orchesterdiplom)
 an den Musikschulen Konservatorium Bern und Köniz. Sie ist Dozentin für Fachdidaktik und praktische Pädagogik für
 Kontrabass an der Hochschule der Künste Bern, Mitglied des Salonquintetts I Galanti und des Orchesters OPUS Bern und
 tritt regelmässig als Pianistin und Kontrabassistin auf. Bettina Keller ist bekannt für ihre Musikvermittlungsprojekte.
-2011 erhielt sie für ihr Kontrabassprojekt die „Odyssee“ den Preis für innovative Musikvermittlungsprojekte des Kantons
-Bern und 2014 für das Cello-Bass-Projekt „Jakobs Reise ans Meer“ den Lily-Wäckerlin-Preis.</p>
+2011 erhielt sie für ihr Kontrabassprojekt die «Odyssee» den Preis für innovative Musikvermittlungsprojekte des Kantons
+Bern und 2014 für das Cello-Bass-Projekt «Jakobs Reise ans Meer» den Lily-Wäckerlin-Preis.</p>
 
 
 
 <a href='www.igalanti.ch'>www.igalanti.ch</a>
 
 
-
-
             </div>
+            
+
+
+
+
+<div class="reservation">
+    <div class="usher">
+        <div class="close">
+            close
+        </div>
+        <div class="panel">
+            <div class="booking-first-step">Bitte wählen Sie die Sitzplätze, die Sie reservieren wollen:</div>
+            <div class="usher_map large-map" data-usher-venue-svg="27"></div>
         </div>
 
+        <div class="panel">
+            <div class="booking-first-step">Geben Sie Namen und Emailadresse an:</div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Name Vorname" class="usher_name" type="text" name="name" data-usher-venue="27"></div>
+                <div class="info"><div class="usher_name_info" data-usher-venue="27"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Email" class="usher_email" type="text" name="email" data-usher-venue="27"></div>
+                <div class="info"><div class="usher_email_info" data-usher-venue="27"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><div class="usher_send button" data-usher-venue="27">Reservieren</div></div>
+                <div class="info"><div class="usher_sent_info" data-usher-venue="27"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="to_reservation" data-venue="27">
+        <div class="book button init-hidden">
+            Plätze buchen
+        </div>
+        <div class="locked init-hidden">Die Reservationen für das Konzert sind geschlossen.<br>Eintritte sind an der Abendkasse erhältlich.</div>
+    </div>
+</div>
+
+
+        </div>
+
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="//reservieren.kammermusik-hondrich.ch/pub/usher.js"></script>
         <script type="text/javascript" src="//post.kammermusik-hondrich.ch/pm.js"></script>
         <script>
-            var m = new PostMail();
-            m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
-            m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
-            m.notifications.sent = 'Die Nachricht wurde gesendet.';
-            m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
-            m.Init();
+            'use strict';
+
+            $(document).ready(function() {
+                var u = new Usher();
+                u.Init();
+
+                var m = new PostMail();
+                m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
+                m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
+                m.notifications.sent = 'Die Nachricht wurde gesendet.';
+                m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
+                m.Init();
+
+                $('.to_reservation').each(function() {
+                    u.checkLockState(
+                        $(this).attr('data-venue'),
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').remove();
+                            toSwap.find('.locked').removeClass('init-hidden');
+                        },
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').removeClass('init-hidden');
+                            toSwap.find('.locked').remove();
+                        }
+                    );
+                });
+
+                jQuery(function($) {
+                    $('.book').click(function() {
+                        var venueClicked = $(this).attr('data-venue');
+                        $('.usher').fadeIn(200);
+                    });
+
+                });
+
+            });
+
         </script>
 
     </body>

@@ -17,7 +17,7 @@ layout: simple
         <div class="postmail_content_info"></div>
     </fieldset>
     <fieldset>
-        <button class="postmail_send" name="submit" type="submit" id="contact-submit" data-submit="...Senden">Senden</button>
+        <div class="postmail_send button right">Senden</div>
         <div class="postmail_sent_info"></div>
     </fieldset>
 </form>

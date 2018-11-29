@@ -255,19 +255,93 @@ wie des Salonquintetts I Galanti, oder des Lunaare Quintetts eine rege Konzertt�
 
 
 
-
-
             </div>
+            
+
+
+
+
+<div class="reservation">
+    <div class="usher">
+        <div class="close">
+            close
+        </div>
+        <div class="panel">
+            <div class="booking-first-step">Bitte w채hlen Sie die Sitzpl채tze, die Sie reservieren wollen:</div>
+            <div class="usher_map large-map" data-usher-venue-svg="28"></div>
         </div>
 
+        <div class="panel">
+            <div class="booking-first-step">Geben Sie Namen und Emailadresse an:</div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Name Vorname" class="usher_name" type="text" name="name" data-usher-venue="28"></div>
+                <div class="info"><div class="usher_name_info" data-usher-venue="28"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Email" class="usher_email" type="text" name="email" data-usher-venue="28"></div>
+                <div class="info"><div class="usher_email_info" data-usher-venue="28"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><div class="usher_send button" data-usher-venue="28">Reservieren</div></div>
+                <div class="info"><div class="usher_sent_info" data-usher-venue="28"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="to_reservation" data-venue="28">
+        <div class="book button init-hidden">
+            Pl채tze buchen
+        </div>
+        <div class="locked init-hidden">Die Reservationen f체r das Konzert sind geschlossen.<br>Eintritte sind an der Abendkasse erh채ltlich.</div>
+    </div>
+</div>
+
+
+        </div>
+
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="//reservieren.kammermusik-hondrich.ch/pub/usher.js"></script>
         <script type="text/javascript" src="//post.kammermusik-hondrich.ch/pm.js"></script>
         <script>
-            var m = new PostMail();
-            m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
-            m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
-            m.notifications.sent = 'Die Nachricht wurde gesendet.';
-            m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
-            m.Init();
+            'use strict';
+
+            $(document).ready(function() {
+                var u = new Usher();
+                u.Init();
+
+                var m = new PostMail();
+                m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
+                m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
+                m.notifications.sent = 'Die Nachricht wurde gesendet.';
+                m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
+                m.Init();
+
+                $('.to_reservation').each(function() {
+                    u.checkLockState(
+                        $(this).attr('data-venue'),
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').remove();
+                            toSwap.find('.locked').removeClass('init-hidden');
+                        },
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').removeClass('init-hidden');
+                            toSwap.find('.locked').remove();
+                        }
+                    );
+                });
+
+                jQuery(function($) {
+                    $('.book').click(function() {
+                        var venueClicked = $(this).attr('data-venue');
+                        $('.usher').fadeIn(200);
+                    });
+
+                });
+
+            });
+
         </script>
 
     </body>

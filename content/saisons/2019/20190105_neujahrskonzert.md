@@ -2,7 +2,7 @@
 title: "Neujahrskonzert mit dem Salonquintett «I Galanti»"
 date: "2019-01-05T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
-concertId: "21"
+concertId: 26
 homepage: "www.igalanti.ch"
 image: 2019_igalanti.jpg
 musicians:
@@ -61,5 +61,5 @@ und Konzertdiplom) und Kontrabass bei Béla Szedlàk (Lehr- und Orchesterdiplom)
 an den Musikschulen Konservatorium Bern und Köniz. Sie ist Dozentin für Fachdidaktik und praktische Pädagogik für
 Kontrabass an der Hochschule der Künste Bern, Mitglied des Salonquintetts I Galanti und des Orchesters OPUS Bern und
 tritt regelmässig als Pianistin und Kontrabassistin auf. Bettina Keller ist bekannt für ihre Musikvermittlungsprojekte.
-2011 erhielt sie für ihr Kontrabassprojekt die „Odyssee“ den Preis für innovative Musikvermittlungsprojekte des Kantons
-Bern und 2014 für das Cello-Bass-Projekt „Jakobs Reise ans Meer“ den Lily-Wäckerlin-Preis.
+2011 erhielt sie für ihr Kontrabassprojekt die «Odyssee» den Preis für innovative Musikvermittlungsprojekte des Kantons
+Bern und 2014 für das Cello-Bass-Projekt «Jakobs Reise ans Meer» den Lily-Wäckerlin-Preis.

@@ -200,16 +200,52 @@ Bettina Keller, Franziska Grütter, Bernhard Berger</p>
 
 
             </div>
+            
         </div>
 
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="//reservieren.kammermusik-hondrich.ch/pub/usher.js"></script>
         <script type="text/javascript" src="//post.kammermusik-hondrich.ch/pm.js"></script>
         <script>
-            var m = new PostMail();
-            m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
-            m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
-            m.notifications.sent = 'Die Nachricht wurde gesendet.';
-            m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
-            m.Init();
+            'use strict';
+
+            $(document).ready(function() {
+                var u = new Usher();
+                u.Init();
+
+                var m = new PostMail();
+                m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
+                m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
+                m.notifications.sent = 'Die Nachricht wurde gesendet.';
+                m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
+                m.Init();
+
+                $('.to_reservation').each(function() {
+                    u.checkLockState(
+                        $(this).attr('data-venue'),
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').remove();
+                            toSwap.find('.locked').removeClass('init-hidden');
+                        },
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').removeClass('init-hidden');
+                            toSwap.find('.locked').remove();
+                        }
+                    );
+                });
+
+                jQuery(function($) {
+                    $('.book').click(function() {
+                        var venueClicked = $(this).attr('data-venue');
+                        $('.usher').fadeIn(200);
+                    });
+
+                });
+
+            });
+
         </script>
 
     </body>
