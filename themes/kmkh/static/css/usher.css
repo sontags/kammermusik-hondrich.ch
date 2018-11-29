@@ -9,14 +9,28 @@
     line-height: var(--line-height-small);
     padding-top: 20px;
     padding-bottom: 20px;
-    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.8);
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.2);
 }
 
 .to_reservation {
+    width: 100%;
     font-style: italic;
 }
 
-.usher {
+.book {
+    font-size: var(--font-size-regular);
+    line-height: var(--line-height-regular);
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.usher p {
+    padding-bottom: 20px;
+}
+
+.usher .form_row {
+    padding-bottom: 10px
 }
 
 .to_reservation, .usher {
@@ -27,10 +41,22 @@
     margin: auto;
 }
 
+.usher .panel.details  {
+    padding-top: 20px;
+}
+
 @media only screen and (min-width: 600px) {
     .usher .panel {
-        width: 50%;
+        width: 46%;
+    }
+
+    .usher .panel.places  {
         float: left;
+    }
+
+    .usher .panel.details  {
+        float: right;
+        padding-top: 0;
     }
 }
 

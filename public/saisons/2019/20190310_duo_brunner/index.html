@@ -218,16 +218,13 @@ Musikschulen in Thun und Bern.</p>
 
 <div class="reservation">
     <div class="usher">
-        <div class="close">
-            close
-        </div>
-        <div class="panel">
-            <div class="booking-first-step">Bitte wählen Sie die Sitzplätze, die Sie reservieren wollen:</div>
+        <div class="panel places">
+            <div class="booking-first-step"><p>Bitte wählen Sie die Sitzplätze:</p></div>
             <div class="usher_map large-map" data-usher-venue-svg="29"></div>
         </div>
 
-        <div class="panel">
-            <div class="booking-first-step">Geben Sie Namen und Emailadresse an:</div>
+        <div class="panel details">
+            <div class="booking-second-step"><p>Geben Sie Namen und Emailadresse an:</p></div>
             <div class="form_row">
                 <div class="input"><input placeholder="Name Vorname" class="usher_name" type="text" name="name" data-usher-venue="29"></div>
                 <div class="info"><div class="usher_name_info" data-usher-venue="29"></div></div>
@@ -244,8 +241,8 @@ Musikschulen in Thun und Bern.</p>
     </div>
 
     <div class="to_reservation" data-venue="29">
-        <div class="book button init-hidden">
-            Plätze buchen
+        <div class="book init-hidden">
+            Plätze reservieren
         </div>
         <div class="locked init-hidden">Die Reservationen für das Konzert sind geschlossen.<br>Eintritte sind an der Abendkasse erhältlich.</div>
     </div>
@@ -289,8 +286,8 @@ Musikschulen in Thun und Bern.</p>
 
                 jQuery(function($) {
                     $('.book').click(function() {
-                        var venueClicked = $(this).attr('data-venue');
                         $('.usher').fadeIn(200);
+                        $('.to_reservation').fadeOut(200);
                     });
 
                 });
