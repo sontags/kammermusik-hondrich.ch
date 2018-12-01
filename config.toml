@@ -1,4 +1,4 @@
-baseURL = "https://beta.kammermusik-hondrich.ch/"
+baseURL = "https://www.kammermusik-hondrich.ch/"
 languageCode = "en-us"
 title = "KMKH"
 theme = "kmkh"
