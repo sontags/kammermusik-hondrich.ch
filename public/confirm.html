@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Kammermusikkonzerte Hondrich - KMKH</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        
+        
+        
+
+        <link rel="stylesheet" href="https://www.kammermusik-hondrich.ch/css/main.css" />
+        <link rel="icon" type="image/png" href="/favicon.png" />
+    </head>
+    <body>
+        <div class="main">
+            <div class="menu">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle">
+    <label for="nav-toggle" class="nav-toggle-label"><span></span></label>
+    <nav>
+        <div class="home"><a href="/">Home</a></div>
+        <div class="navigation">
+            <ul class="mainmenu">
+                <li><a href="/saisons/2019/">Saison 2019</a></li>
+                <li><a href="/infos">Infos</a></li>
+                <li><a href="/kontakt">Kontakt</a></li>
+                <li><a href="/saisons">Archiv</a></li>
+            </ul>
+        </div>
+        <div class="subnavigation">
+            <ul class="submenu">
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                <li class="menuitem">
+                    <a href="/saisons/2019/20190105_neujahrskonzert/" class="">
+                        <div class="date">5. Januar 2019</div>
+                        <div class="title">Neujahrskonzert mit dem Salonquintett «I Galanti»</div>
+                    </a>
+                </li>
+                
+
+                
+
+                
+                <li class="menuitem">
+                    <a href="/saisons/2019/20190106_neujahrskonzert/" class="">
+                        <div class="date">6. Januar 2019</div>
+                        <div class="title">Neujahrskonzert mit dem Salonquintett «I Galanti»</div>
+                    </a>
+                </li>
+                
+
+                
+
+                
+                <li class="menuitem">
+                    <a href="/saisons/2019/20190210_tangosalon/" class="">
+                        <div class="date">10. Februar 2019</div>
+                        <div class="title">Tango Salón</div>
+                    </a>
+                </li>
+                
+
+                
+
+                
+                <li class="menuitem">
+                    <a href="/saisons/2019/20190310_duo_brunner/" class="">
+                        <div class="date">10. März 2019</div>
+                        <div class="title">Duo Evelyn und Kristina Brunner</div>
+                    </a>
+                </li>
+                
+
+                
+
+                
+                <li class="menuitem">
+                    <a href="/saisons/2019/20190505_klavierquintette/" class="">
+                        <div class="date">5. Mai 2019</div>
+                        <div class="title">Zwei Quintette für Violine, Viola, Violoncello, Kontrabass und Klavier</div>
+                    </a>
+                </li>
+                
+
+                
+            </ul>
+        </div>
+    </nav>
+</div>
+
+            <div class="text">
+                
+<h1>Bestätigung</h1>
+<p><p class="usher_confirm">Bitte warten, Ihre Anfrage wird verarbeitet&hellip;</p><br><br></p>
+
+
+            </div>
+            
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://reservieren.kammermusik-hondrich.ch/pub/usher.js"></script>
+        <script type="text/javascript" src="https://post.kammermusik-hondrich.ch/pm.js"></script>
+        <script>
+            'use strict';
+
+            $(document).ready(function() {
+                var u = new Usher();
+                u.Init();
+
+                var m = new PostMail();
+                m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
+                m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
+                m.notifications.sent = 'Die Nachricht wurde gesendet.';
+                m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
+                m.Init();
+
+                $('.to_reservation').each(function() {
+                    u.checkLockState(
+                        $(this).attr('data-venue'),
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').remove();
+                            toSwap.find('.locked').removeClass('init-hidden');
+                        },
+                        function(vId){
+                            var toSwap = $('.to_reservation[data-venue=\'' + vId + '\']');
+                            toSwap.find('.book').removeClass('init-hidden');
+                            toSwap.find('.locked').remove();
+                        }
+                    );
+                });
+
+                jQuery(function($) {
+                    $('.book').click(function() {
+                        $('.usher').fadeIn(200);
+                        $('.to_reservation').fadeOut(200);
+                    });
+
+                });
+
+            });
+
+        </script>
+
+    </body>
+</html>
