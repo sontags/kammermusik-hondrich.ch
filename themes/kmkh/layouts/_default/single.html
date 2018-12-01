@@ -33,6 +33,7 @@
 {{ $saison := .CurrentSection.Param "saison" }}
 {{ if and (eq $saison $currentSaison) (isset .Params "concertid") }}
 {{ $cid := .Param "concertid" }}
+<br /><br />
 <div class="reservation">
     <div class="usher">
         <div class="panel places">
