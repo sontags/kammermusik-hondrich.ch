@@ -3,7 +3,7 @@ title: "Duo Evelyn und Kristina Brunner"
 date: "2019-03-10T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
 concertId: "29"
-image: 2019_EvelynKristina.jpg
+image: "/2019_EvelynKristina.jpg"
 homepage: "https://www.evelyn-kristina-brunner.ch/"
 musicians:
 - Evelyn Brunner, Kontrabass und Schwyzerörgeli

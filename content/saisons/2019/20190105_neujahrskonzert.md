@@ -4,7 +4,7 @@ date: "2019-01-05T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
 concertId: 26
 homepage: "www.igalanti.ch"
-image: 2019_igalanti.jpg
+image: "/2019_igalanti.jpg"
 musicians:
 - Bruno Leuschner, Klavier
 - Michael Keller und Franziska Grütter, Violinen

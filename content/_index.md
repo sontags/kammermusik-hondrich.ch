@@ -6,7 +6,7 @@
 ---
 Fünf Klassische Konzerte im grossen Saal des Inforama Hondrich
 
-![Niesen, Benedicht Friedli, 2010/11](2019_niesen.jpg)
+![Niesen, Benedicht Friedli, 2010/11](/2019_niesen.jpg)
 
 _(Niesen, Benedicht Friedli, 2010/11)_
 
