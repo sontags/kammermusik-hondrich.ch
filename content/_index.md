@@ -4,7 +4,7 @@
     "subtitle": "Saison 2019"
 }
 ---
-Fünf Klassische Konzerte im grossen Saal des Inforama Hondrich
+Fünf klassische Konzerte im grossen Saal des Inforama Hondrich
 
 ![Niesen, Benedicht Friedli, 2010/11](/2019_niesen.jpg)
 
