@@ -49,5 +49,5 @@ virtuosem 2. Klavierquintett beenden wir die Saison fulminant.
 Wir danken Ihnen für Ihr Interesse an den Konzerten in Hondrich und freuen
 uns auf ein Wiedersehen im 2019!
 
-Bern, im November 2018
+Bern, im November 2018  
 Bettina Keller, Franziska Grütter, Bernhard Berger
