@@ -16,7 +16,7 @@
 <br><br>
 <h2>Vergangene Saisons</h2>
 
-{{ range .Sections }}
+{{ range .Sections.Reverse }}
 {{ $saison := .Param "saison" }}
 {{ if ne $saison .Site.Params.currentSaison }}
 <div><a href="{{ .URL }}">
