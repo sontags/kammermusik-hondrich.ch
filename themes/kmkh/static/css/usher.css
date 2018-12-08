@@ -33,6 +33,10 @@
     padding-bottom: 10px
 }
 
+.usher_map > svg {
+    max-width: 100%;
+}
+
 .to_reservation, .usher {
     padding-left: 60px;
     padding-right: 75px;
