@@ -13,7 +13,7 @@ layout: simple
         <input placeholder="Titel" class="postmail_subject" type="text" name="subject" value="Kontaktformular kammermusik-hondrich.ch">
     </fieldset>
     <fieldset>
-        <textarea class="postmail_content" placeholder="Schreiben Sie uns Ihr Anliegen..." tabindex="2" required></textarea>
+        <textarea class="postmail_content" placeholder="Schreiben Sie uns hier Ihr Anliegen..." tabindex="2" required></textarea>
         <div class="postmail_content_info"></div>
     </fieldset>
     <fieldset>
