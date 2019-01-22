@@ -3,7 +3,8 @@ title: "Tango Salón"
 date: "2019-02-10T17:00:00+01:00"
 publishDate: "2018-01-05T17:00:00+01:00"
 concertId: "28"
-image: "/2019_TangoSalon.jpg"
+image: "/2019_TangoSalon_2.jpg"
+homepage: "https://www.tango-salon.ch"
 musicians:
 - Peter Gneist, Bandoneon
 - Franziska Grütter und Regina Salzmann, Violinen
