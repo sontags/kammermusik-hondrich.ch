@@ -80,6 +80,13 @@ html, body {
     transform-origin: top center;
 }
 
+.almost-booked {
+    background-color:  var(--color-warn);
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
 @media only screen and (min-width: 600px) {
     .text {
         padding: 60px;
