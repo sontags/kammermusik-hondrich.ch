@@ -10,6 +10,7 @@ musicians:
 - Franziska Grütter und Regina Salzmann, Violinen
 - Irene Arametti, Viola
 - Winfried Holzenkamp, Kontrabass
+booked: "true"
 ---
 
 Zur Entstehungszeit des Tangos trafen in Buenos Aires ganz verschiedene Nationalitäten
