@@ -13,11 +13,11 @@ musicians:
 ---
 
 __Antonín Dvořák__ (1841-1904)  
-Streichquintett Es-Dur op. 79  
-Allegro non tanto  
-Scherzo  
-Larghetto  
-Allegro giusto  
+Streichquintett G-Dur op. 77
+Allegro con fuoco-Piu mosso
+Scherzo-Allegro vivace
+Poco andante
+Finale, Allegro assai
 
 __Louise Farrenc__ (1804-1875)  
 Klavierquintett Nr. 2 E-Dur, op. 31  
