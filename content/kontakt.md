@@ -6,7 +6,7 @@ layout: simple
 
 <form id="contact">
     <fieldset>
-        <input placeholder="Ihre Emailadresse" type="email" tabindex="1" required autofocus class="postmail_email">
+        <input placeholder="Ihre Email-Adresse" type="email" tabindex="1" required autofocus class="postmail_email">
         <div class="postmail_email_info"></div>
     </fieldset>
     <fieldset style="display:none;">
