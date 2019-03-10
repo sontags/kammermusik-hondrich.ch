@@ -23,7 +23,7 @@
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script type="text/javascript" src="https://reservieren.kammermusik-hondrich.ch/pub/usher.js"></script>
-        <!--<script type="text/javascript" src="https://postmail.kammermusik-hondrich.ch/pm.js/"></script>-->
+        <script type="text/javascript" src="https://postmail.kammermusik-hondrich.ch/pm.js/"></script>
         <script>
             'use strict';
 
@@ -31,12 +31,12 @@
                 var u = new Usher();
                 u.Init();
 
-                // var m = new PostMail();
-                // m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
-                // m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
-                // m.notifications.sent = 'Die Nachricht wurde gesendet.';
-                // m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
-                // m.Init();
+                var m = new PostMail();
+                m.notifications.cannotBeEmpty = 'Das Feld darf nicht leer sein.';
+                m.notifications.mustBeMail = 'Die Eingabe ist keine Email-Adresse.';
+                m.notifications.sent = 'Die Nachricht wurde gesendet.';
+                m.notifications.couldNotSend = 'Die Nachricht konnte nicht gesendet werden.';
+                m.Init();
 
                 $('.to_reservation').each(function() {
                     u.checkLockState(
