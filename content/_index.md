@@ -5,6 +5,9 @@
 }
 ---
 
+__Aktuell: Im August haben wir eine Überraschung für Sie!__
+[Erfahren sie hier mehr dazu...](/saisons/2019/20190825_jubilaeumskonzert/)
+
 Fünf klassische Konzerte im grossen Saal des Inforama Hondrich.
 
 ![Niesen, Benedicht Friedli, 2010/11](/2019_niesen.jpg)

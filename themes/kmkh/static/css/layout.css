@@ -58,6 +58,8 @@ html, body {
 
 .text a {
     color: black;
+    text-decoration: none;
+    font-style: italic;
 }
 
 .list a {
