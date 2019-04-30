@@ -1,5 +1,5 @@
 ---
-title: "Jubiläubskonzert: 20 Jahre «I Galanti»"
+title: "Jubiläumskonzert: 20 Jahre «I Galanti»"
 date: "2019-08-25T16:00:00+01:00"
 publishDate: "2018-04-27T16:00:00+01:00"
 concertId: 31
