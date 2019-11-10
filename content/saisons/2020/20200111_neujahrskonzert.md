@@ -1,5 +1,5 @@
 ---
-title: "Neujahrskonzert mit dem «I Galanti» Klavirquintett"
+title: "Neujahrskonzert mit dem «I Galanti» Klavierquintett"
 date: "2020-01-11T17:00:00+01:00"
 publishDate: "2019-01-05T17:00:00+01:00"
 concertId: 101
