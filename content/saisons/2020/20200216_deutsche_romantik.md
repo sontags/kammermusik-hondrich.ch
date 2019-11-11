@@ -34,9 +34,18 @@ der Romantik ebenbürtig.
  
 ### DIE MUSIKER/INNEN
 
-__Maxime Ganz__ ...
+__Maxime Ganz__ (Violoncello) wuchs in Strassburg in einer Musikerfamilie mit
+russischen und uruguayanischen Wurzeln auf. Er wurde von Jean Deplace in
+der Celloklasse am Strassburger Staatskonservatorium unterrichtet. Nach
+Meisterkursen bei Mikhaïl Milman setzte er seine Ausbildung an der «Escuela
+Superior de Música Reina Sofía» in der Klasse von Natalia Shakhovskaya in Madrid
+fort. An der Hochschule der Künste Bern erwarb er bei Antonio Meneses das
+Konzertdiplom mit Auszeichnung und anschliessend in der Klasse von Conradin Brotbek
+den Master Specialized in Performance. Maxime Ganz ist als Solist häufiger Gast
+verschiedener Orchester, z.B. des Berner Sinfonie Orchesters. Maxime Ganz unterrichtet
+seit August 2015 Violoncello an der Musikschule Konservatorium Bern.
 
-__Bettina Keller__ (Kontrabass) studierte an der Hochschule für Musik in Bern Klavier bei Erika Radermacher (Lehr-
+__Bettina Keller__ (Klavier) studierte an der Hochschule für Musik in Bern Klavier bei Erika Radermacher (Lehr-
 und Konzertdiplom) und Kontrabass bei Béla Szedlàk (Lehr- und Orchesterdiplom). Sie unterrichtet seit 1995 Kontrabass
 an den Musikschulen Konservatorium Bern und Köniz. Sie ist Dozentin für Fachdidaktik und praktische Pädagogik für
 Kontrabass an der Hochschule der Künste Bern, Mitglied des Salonquintetts I Galanti und des Orchesters OPUS Bern und
