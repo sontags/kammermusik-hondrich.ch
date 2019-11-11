@@ -2,7 +2,7 @@
 title: "Neujahrskonzert mit dem «I Galanti» Klavierquintett"
 date: "2020-01-12T17:00:00+01:00"
 publishDate: "2019-01-05T17:00:00+01:00"
-concertId: 102
+concertId: 33
 homepage: "www.igalanti.ch"
 image: "/2020_igalanti.jpg"
 musicians:

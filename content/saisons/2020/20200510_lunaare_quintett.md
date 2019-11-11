@@ -2,7 +2,7 @@
 title: "Lunaare Quintett"
 date: "2020-05-10T17:00:00+01:00"
 publishDate: "2019-01-05T17:00:00+01:00"
-concertId: 105
+concertId: 36
 image: "/2020_lunaare.jpg"
 musicians:
 - Evelyne Grandy, Klavier
