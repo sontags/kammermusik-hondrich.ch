@@ -22,12 +22,12 @@ Adagio affettuoso
 Allegro passionato  
 Allegro molto  
 
-Der Arpeggione ist ein im Jahre 1823 vom Wiener Geigenbauer Johann Georg Stauffer erfundenes Streichinstrument,
+Die Arpeggione ist ein im Jahre 1823 vom Wiener Geigenbauer Johann Georg Stauffer erfundenes Streichinstrument,
 das Merkmale der Gitarre und des Violoncellos in sich vereinigt. Die Inspiration lag darin, die Bauprinzipien der
-Gitarre mit den Ausdrucksmöglichkeiten und dynamischen Qualitäten des gestrichenen Tons zu verbinden. Der Arpeggione
+Gitarre mit den Ausdrucksmöglichkeiten und dynamischen Qualitäten des gestrichenen Tons zu verbinden. Die Arpeggione
 wäre als Kuriosum sicher längst in Vergessenheit geraten, hätte Franz Schubert nicht 1824 seine Sonate für Arpeggione
-und Klavier geschrieben. Heute wird der Part des Arpeggiones meistens vom Violoncello übernommen. Brahms‘ zweite
-Cellosonate in F-Dur erklingt im Konzertsaal viel seltener als die erste in e-Moll. Brahms komponierte sie in einer
+und Klavier geschrieben. Heute wird der Part der Arpeggione meistens vom Violoncello übernommen. Brahms’ zweite
+Cellosonate in F-Dur erklingt im Konzertsaal viel seltener als die Erste in e-Moll. Brahms komponierte sie in einer
 glücklichen Phase 1886 am Thunersee für einen der grossartigsten Cellisten dieser Zeit: Robert Hausmann, der sich
 eigentlich ein Cellokonzert gewünscht hatte. Die F-Dur Sonate ist in ihrer Klangfülle und Intensität einem Cellokonzert
 der Romantik ebenbürtig. 
