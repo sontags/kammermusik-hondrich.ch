@@ -89,6 +89,6 @@ Musikschulen der Konservatorien Bern, Neuenburg und La Chaux-de-Fonds und
 Engagements in verschiedenen Orchestern der Deutsch- und Westschweiz (Sinfonie
 Orchester Biel, Orchestre de Chambre de Neuchâtel, Ensemble Symphonique de
 Neuchâtel, Orchestre de Chambre du Valais, Kammerorchester concertino, Camerata
-Mobile), tritt sie als passionierte Kammermusikerin regelmässig mit der Violine
+Mobile) tritt sie als passionierte Kammermusikerin regelmässig mit der Violine
 oder der Bratsche auf (Lunaare-Quintett, Oberwalliser Streichquartett, Trio
 Zafferano, Duo/Quartett mit Gitarre).
