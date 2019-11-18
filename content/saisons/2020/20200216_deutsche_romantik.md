@@ -2,7 +2,7 @@
 title: "Sonaten für Cello und Klavier der Deutschen Romantik"
 date: "2020-02-16T17:00:00+01:00"
 publishDate: "2019-01-05T17:00:00+01:00"
-concertId: 34
+concertId: 36
 image: "/2020_deutsche_romantik.jpg"
 musicians:
 - Maxime Ganz, Violoncello
