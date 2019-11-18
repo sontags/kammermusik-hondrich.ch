@@ -13,6 +13,7 @@ musicians:
 ---
 
 __Camille Saint-Saëns__ (1835-1921)  
+Klavierquintett Op. 14 in a-Mol
 Allegro moderato e maestoso  
 Andante sostenuto  
 Presto  
@@ -25,12 +26,12 @@ Scherzo
 Adagio, quasi andante  
 Finale  
 
-Die fünf MusikerInnen haben für ihren Auftritt in Hondrich die Klavierquintette von  Saint-Saëns und 
+Die fünf MusikerInnen haben für ihren Auftritt in Hondrich die Klavierquintette von Saint-Saëns und 
 Dohnányi ausgewählt. Wild-wuchtig kommt Saint-Saëns’ Quintett in a-Moll daher. Eine unglaublich reife,
 ideenreiche und dichte Komposition eines 18-Jährigen, mal energisch und dramatisch, dann wieder lyrisch
 oder fast religiös.
 
-Klangschön und emotional ist Ernst von Dohnányis Op. 1, das an Romantik und Intensität keine wünsche offen
+Klangschön und emotional ist Ernst von Dohnányis Op. 1, das an Romantik und Intensität keine Wünsche offen
 lässt. Die Stimmen sind ebenbürtige Partner, die Musiker spielen sich förmlich in die Hände. Mal zärtlich
 schmelzend, mal jagend, dann wieder friedlich-versöhnlich wird eine reichhaltige Palette an romantischen
 Themen ausgebreitet.
@@ -41,9 +42,9 @@ __Evelyne Grandy__, geboren und aufgewachsen in Solothurn, studierte an der Hoch
 Klavier bei Adalbert Roetschi und Orgel bei Rudolf Scheidegger (Konzertdiplome mit Auszeichnung). Sie 
 war ein Jahr lang Schülerin von Hubert Harry in Luzern und während eines halbjährigen Aufenthalts in 
 der Cité des Arts in Paris (Förderpreis des Kanton Solothurns) Schülerin bei Jacques Rouvier. 2011
-erlangte sie das Klavier Solistendiplom bei Prof. Homero Francesch an der Hochschule der Künste Zürich.
+erlangte sie Solistendiplom bei Prof. Homero Francesch an der Hochschule der Künste Zürich.
 Sie gewann mehrere Preise und Auszeichnungen, u.a. den Werkjahrespreis des Kantons Solothurn und ein
-Migros Stipendium der Ernst-Göhner-Stiftung - und spielte solistisch mit der Philharmonie Baden Baden,
+Migros Stipendium der Ernst-Göhner-Stiftung und spielte solistisch mit der Philharmonie Baden Baden,
 dem Bieler Sinfonieorchester, dem Huttwiler Kammerorchester und dem Neuen Orchester Basel. Neben ihrer
 vielfältigen Konzerttätigkeit ist sie Hauptorganistin in Zuchwil und unterrichtet an der Kantonsschule
 Solothurn.
@@ -51,7 +52,7 @@ Solothurn.
 __Andreas Graf__ debütierte als Cellist in jungen Jahren an den Spiezer Schlosskonzerten, war zweimal
 Erstpreisträger beim Schweizerischen Musikwettbewerb und wurde mit dem Kulturförderpreis der Stadt
 Thun ausgezeichnet. Er studierte er bei Prof. Peter Hörr an der Musikhochschule Bern und bei Prof.
-Michael Sanderling in Frankfurt am Main, wo er 2007 mit dem Solistendiplom abschloss. Weitere
+Michael Sanderling in Frankfurt am Main, wo er 2007 das Solistendiplom erlangte. Weitere
 künstlerische Impulse erhielt er u.a. von Janos Starker, Ralph Kirshbaum und Wolfgang Boettcher. Andreas
 Graf ist Mitglied des Berner Symphonieorchesters. Als Solist hat er u.a. mit den Nürnberger Symphonikern,
 dem Philharmonischen Orchester Kiel, der Jenaer Philharmonie, dem Berner Kammerorchester und dem 
@@ -85,7 +86,7 @@ __Regina Salzmann Trottmann__ aus Naters studierte in der Berufsklasse von
 Anne Bauer-Loerkens am Conservatoire de Musique de Neuchâtel (Lehrdiplom für
 Violine «Perfectionnement» mit Bestnote). Neben Stellvertretungen an den
 Musikschulen der Konservatorien Bern, Neuenburg und La Chaux-de-Fonds und
-Engagements in verschiedenen Orchestern der Deutschund Westschweiz (Sinfonie
+Engagements in verschiedenen Orchestern der Deutsch- und Westschweiz (Sinfonie
 Orchester Biel, Orchestre de Chambre de Neuchâtel, Ensemble Symphonique de
 Neuchâtel, Orchestre de Chambre du Valais, Kammerorchester concertino, Camerata
 Mobile), tritt sie als passionierte Kammermusikerin regelmässig mit der Violine

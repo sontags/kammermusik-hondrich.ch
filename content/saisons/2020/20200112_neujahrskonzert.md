@@ -1,5 +1,5 @@
 ---
-title: "Neujahrskonzert mit dem «I Galanti» Klavierquintett"
+title: "Neujahrskonzert mit dem «I Galanti» Salonquintett"
 date: "2020-01-12T17:00:00+01:00"
 publishDate: "2019-01-05T17:00:00+01:00"
 concertId: 33
@@ -12,7 +12,7 @@ musicians:
 - Bruno Leuschner, Klavier
 ---
 
-Die fünf MusikerInnen des Klavierquintetts «I Galanti» prägen mit ihren vielfältigen musikalischen Erfahrungen als
+Die fünf MusikerInnen des Salonquintetts «I Galanti» prägen mit ihren vielfältigen musikalischen Erfahrungen als
 SolistIn, KammermusikerIn, DirigentIn, Arrangeur, Komponist und PädagogIn die Entwicklung des Salonensembles. Seit 
 über 20 Jahren wächst das Repertoire des Quintetts stetig und wird mit Musik aus vielen Stilen, Zeiten und 
 Regionen bereichert. «I Galanti» überschreiten gern Grenzen, die fünf virtuosen Mitglieder lieben alle die Spontaneität,
@@ -38,7 +38,7 @@ Ensembles (Salonquintett I Galanti, Duo Campanella, Lunaare Quintett) und solist
 auch das Schweizer Musikschaffen immer wieder in seine Konzertprogramme aufzunehmen.
 
 __Nebojša Bugarski__ (Violoncello) ist mehrfacher Preisträger nationaler Bundeswettbewerbe des ehemaligen Jugoslawien
-sowie des ersten internationalen Cellowettbewerbs in Liezen (Österreich 1992). Soloauftritte mit Orchestern gab er
+sowie des ersten internationalen Cellowettbewerbs in Liezen (Österreich 1992). Soloauftritte mit Orchester gab er
 mit Werken von Schumann, Boccherini, Dvořák, Vivaldi, Honegger und Lutoslawski. Er ist als Solist und Kammermusiker
 in Europa, USA, Mexiko, Asien und den vereinigten Arabischen Emiraten aufgetreten. Nebojša Bugarski studierte bei Ivan
 Poparić, Miloš Mlejnik, Peter Hörr und Ivan Monighetti in Belgrad, Ljubljana, Basel und Bern. Seit 2006 unterrichtet
@@ -46,7 +46,7 @@ er Cello an der Musikakademie der Stadt Basel. Seit 2006 ist er Solocellist des 
 mit dem Ensemble Fiacorda oder dem Ensemble Viva auf.
 
 __Bruno Leuschner__ (Klavier) ist in Santiago de Chile geboren. Er studierte Dirigieren und Klavier an der Musikhochschule
-Hamburg bei Klauspeter Seibel und Christoph von Dohnanyi. Als Dirigent bei verschiedenen deutschen und schweizerischen
+Hamburg bei Klauspeter Seibel und Christoph von Dohnányi. Als Dirigent bei verschiedenen deutschen und schweizerischen
 Orchestern hat er ein grosses sinfonisches Repertoire erarbeitet. Er war an Opernhäusern in Deutschland und in der Schweiz
 als Dirigent, Studienleiter und Korrepetitor engagiert. Er ist sowohl als Komponist von Bühnenwerken, Liedern und
 Orchesterwerken hervorgetreten wie auch als gefragter Arrangeur für verschiedene Ensembles. Einen weiteren Schwerpunkt
