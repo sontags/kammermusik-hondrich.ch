@@ -5,6 +5,8 @@
 }
 ---
 
+<div class="corona">Das Konzert am Sonntag dem 15.03.2020 findet wie geplant statt.</div>
+
 Fünf klassische Konzerte im grossen Saal des Inforama Hondrich
 
 ![Leinwandniesen blau-gelb, Bendicht Friedli, 2011, Acryl, 40x40 cm, Privatsammlung E.Kolb](/2020_niesen.jpg)
