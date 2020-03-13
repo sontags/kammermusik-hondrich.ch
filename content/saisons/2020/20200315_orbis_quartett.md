@@ -12,6 +12,8 @@ musicians:
 - Felix Eugen Thiemann, Violoncello
 ---
 
+<div class="corona">Das Konzert am Sonntag dem 15.03.2020 findet wie geplant statt.</div>
+
 __Ludwig van Beethoven__ (1770-1827)  
 Streichquartett Op. 18 Nr. 4 in c-Moll  
 Allegro ma non tanto  
