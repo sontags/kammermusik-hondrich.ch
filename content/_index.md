@@ -5,7 +5,10 @@
 }
 ---
 
-<div class="corona">Das Konzert am Sonntag dem 15.03.2020 findet wie geplant statt.</div>
+<div class="corona"><b>Das Konzert vom 10. Mai 2020 findet nicht statt.</b><br /><br />
+Falls es die Umstände erlauben, führen wir im Dezember 2020 ein zusätzliches Konzert als Ersatz durch. Die Abonnemente bleiben gültig.
+Wir danken für Ihr Interesse und melden uns rechtzeitig per Mail und Post bei unserem treuen Publikum.<br /><br />
+Bleiben Sie gesund!</div>
 
 Fünf klassische Konzerte im grossen Saal des Inforama Hondrich
 
