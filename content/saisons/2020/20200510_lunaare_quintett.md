@@ -12,6 +12,11 @@ musicians:
 - Andreas Graf, Violoncello
 ---
 
+<div class="corona"><b>Das Konzert vom 10. Mai 2020 findet nicht statt.</b><br /><br />
+Falls es die Umstände erlauben, führen wir im Dezember 2020 ein zusätzliches Konzert als Ersatz durch. Die Abonnemente bleiben gültig.
+Wir danken für Ihr Interesse und melden uns rechtzeitig per Mail und Post bei unserem treuen Publikum.<br /><br />
+Bleiben Sie gesund!</div>
+
 __Camille Saint-Saëns__ (1835-1921)  
 Klavierquintett Op. 14 in a-Mol  
 Allegro moderato e maestoso  
