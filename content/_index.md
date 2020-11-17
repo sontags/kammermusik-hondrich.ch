@@ -5,9 +5,6 @@
 }
 ---
 
-Fünf klassische Konzerte im grossen Saal des Inforama Hondrich
-
-
 Liebes Publikum
 
 Nach Möglichkeit findet am 6. Dezember ein Duoabend mit Franziska Grütter, Violine und Bruno Leuschner, Klavier statt. Wir möchten Ihnen in der Adventszeit einen musikalischen Lichtblick ermöglichen.
