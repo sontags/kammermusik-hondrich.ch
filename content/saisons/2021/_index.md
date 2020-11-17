@@ -1,5 +1,5 @@
 ---
-saison: 2020/2021
+saison: 2021
 type: special
 layout: konzerte
 ---

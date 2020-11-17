@@ -4,5 +4,5 @@ title = "KMKH"
 theme = "kmkh"
 
 [params]
-  currentSaison = "2020_2021"
+  currentSaison = 2021
 

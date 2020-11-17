@@ -1,7 +1,7 @@
 ---
-title: "Provisorisch"
+title: "Provisorisch: Duoabend mit Franziska Grütter und Bruno Leuschner"
 date: "2020-12-06T17:00:00+01:00"
-publishDate: "2020-11-18T17:00:00+01:00"
+publishDate: "2020-11-16T17:00:00+01:00"
 concertId: 11
 image: "/2021_Gruetter_Leuschner.jpg"
 musicians:
