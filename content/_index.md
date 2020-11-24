@@ -1,7 +1,7 @@
 ---
 {
     "title": "Kammermusikkonzerte Hondrich",
-    "subtitle": "Saison 2020"
+    "subtitle": "Saison 2020 – Duoabend"
 }
 ---
 
