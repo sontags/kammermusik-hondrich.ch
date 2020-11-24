@@ -4,5 +4,6 @@ title = "KMKH"
 theme = "kmkh"
 
 [params]
-  currentSaison = 2020
+  currentSaison = "2020_Duoabend"
+  currentSaisonTitle = "2020 – Duoabend"
 
