@@ -9,7 +9,7 @@
 {{ $saison := .Param "saison" }}
 {{ if eq $saison $currentSaison }}
 <div><a href="{{ .URL }}">
-    Saison {{ $saison }}
+        Saison {{ if isset .Params "title" }}{{ .Param "title" }}{{ else }} {{ $saison }} {{ end }}
 </a></div>
 {{ end }}
 {{ end }}
@@ -20,7 +20,7 @@
 {{ $saison := .Param "saison" }}
 {{ if ne $saison .Site.Params.currentSaison }}
 <div><a href="{{ .URL }}">
-    Saison {{ $saison }}
+        Saison {{ if isset .Params "title" }}{{ .Param "title" }}{{ else }} {{ $saison }} {{ end }}
 </a></div>
 {{ end }}
 {{ end }}
