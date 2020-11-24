@@ -1,5 +1,5 @@
 {{ define "content" }}
-<h1>Konzerte der Saison {{ .CurrentSection.Param "saison" }}</h1>
+<h1>Konzerte der Saison {{ if isset .CurrentSection.Params "title" }}{{ .CurrentSection.Param "title" }}{{ else }}{{ .CurrentSection.Param "saison" }}{{ end }}</h1>
 
 <div class="list">
     {{ range .Pages.Reverse }}

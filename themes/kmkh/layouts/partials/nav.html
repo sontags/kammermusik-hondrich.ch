@@ -5,7 +5,7 @@
         <div class="home"><a href="/">Home</a></div>
         <div class="navigation">
             <ul class="mainmenu">
-                <li><a href="/saisons/{{ .Site.Params.currentSaison }}/">Saison {{ .Site.Params.currentSaisonTitle }}</a></li>
+                <li><a href="/saisons/{{ lower .Site.Params.currentSaison }}/">Saison {{ .Site.Params.currentSaisonTitle }}</a></li>
                 <li><a href="/infos">Infos</a></li>
                 <li><a href="/kontakt">Kontakt</a></li>
                 <li><a href="/saisons">Archiv</a></li>
