@@ -3,7 +3,11 @@
 {{ end }}
 
 {{ define "content" }}
+{{ if isset .Params "date_unknown" }}
+<h2>Datum noch nicht bekannt</h2>
+{{ else }}
 <h2>{{ index $.Site.Data.tage (printf "%d" .Date.Weekday) }}, {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}, {{ .Date.Format "15:04" }} Uhr</h2>
+{{ end }}
 <h1>{{ .Title }}</h1>
 
 {{ if isset .Params "musicians" }}

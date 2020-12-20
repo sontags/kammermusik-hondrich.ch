@@ -6,7 +6,11 @@
     <div class="element">
         <a href="{{ .URL }}">
             <div class="date">
+                {{ if isset .Params "date_unknown" }}
+                Datum noch nicht bekannt
+                {{ else }}
                 {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                {{ end }}
             </div>
             <div class="title">
                 {{ .Title }}
