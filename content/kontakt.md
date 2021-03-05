@@ -4,7 +4,7 @@ type: special
 layout: simple
 ---
 
-Bei Fragen, Lob und Kritik stehen wir Ihnen gerne unter <a href = "mailto: kammermusik.hondrich@gmail.com">kammermusik.hondrich@gmail.com</a> zur Verfügung.
+Bei Fragen, Lob und Kritik stehen wir Ihnen gerne via Email <a href = "mailto: kammermusik.hondrich@gmail.com">kammermusik.hondrich@gmail.com</a> zur Verfügung.
 
 <!--
 <form id="contact">
