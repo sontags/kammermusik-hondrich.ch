@@ -4,6 +4,9 @@ type: special
 layout: simple
 ---
 
+Bei Fragen, Lob und Kritik stehen wir Ihnen gerne unter <a href = "mailto: kammermusik.hondrich@gmail.com">kammermusik.hondrich@gmail.com</a> zur Verfügung.
+
+<!--
 <form id="contact">
     <fieldset>
         <input placeholder="Ihre Email-Adresse" type="email" tabindex="1" required autofocus class="postmail_email">
@@ -21,3 +24,4 @@ layout: simple
         <div class="postmail_sent_info"></div>
     </fieldset>
 </form>
+-->
