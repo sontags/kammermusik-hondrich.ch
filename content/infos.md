@@ -10,7 +10,7 @@ reservieren. Telefonische Reservationen können nur in Ausnahmefällen und
 unter der Telefonnummer 078 852 63 48 entgegengenommen werden.
 
 __Kontaktadresse, Bestellung Abonnemente__  
-Kammermusikkonzerte Hondrich: Bettina Keller, Florastrasse 30, 3005 Bern
+Kammermusikkonzerte Hondrich: Bettina Keller, Ensingerstrasse 29, 3006 Bern
 
 __Eintrittspreise__  
 Einzelkarten Fr. 30.–, Kinder im Schulalter Fr. 10.–  
