@@ -20,7 +20,7 @@ Suite Bergamasque
 __Béla Bartok__ (1881–1945)  
 Suite op. 14
 
-__Maurice Ravel__ (1875– 1937)  
+__Maurice Ravel__ (1875–1937)  
 Ma mere l’Oye
 
 _Bitte beachten Sie das an den Konzerten selbstverständlich weiterhin Masken getragen werden und dass zwischen den Stühlen ein Abstand von 1.5 Metern besteht._
