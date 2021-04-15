@@ -23,4 +23,4 @@ Suite op. 14
 __Maurice Ravel__ (1875–1937)  
 Ma mere l’Oye
 
-_Bitte beachten Sie das an den Konzerten selbstverständlich weiterhin Masken getragen werden und dass zwischen den Stühlen ein Abstand von 1.5 Metern besteht._
+_Bitte beachten Sie, dass an den Konzerten selbstverständlich weiterhin Masken getragen werden und dass zwischen den Stühlen ein Abstand von 1.5 Metern besteht._

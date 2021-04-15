@@ -7,11 +7,9 @@
 
 Liebes Publikum
 
-Bis auf Weiteres können wir die Kammermusikkonzerte Hondrich leider nicht veranstalten.
-Wir verschieben die Konzerte auf einen späteren Zeitpunkt. Sie können aber jetzt bereits unter «Saison 2021» nachlesen welche Konzerte geplant sind.
+Mir grosser Freude laden wir Sie zum ersten Kammermusikkonzert  der Saison 2021 im Inforama Hondrich ein.
+Nach einem langen Winter ohne Live-Kultur, sind die Künstlerinnen und Künstler erleichtert, dass wieder Konzerte im kleinen Rahmen stattfinden dürfen.
+Wir bieten Ihnen am 9. Mai zwei Termine an und beschränken die Sitzplätze auf 35, damit wir die Abstände einhalten können.
 
-Das Programmheft erscheint, sobald die Situation klar ist. Reservationen werden dann hier auf der Webseite möglich sein.
-
-Bern, im Dezember 2020  
+Bern im April 2021
 Bettina Keller, Franziska Grütter, Bernhard Berger
-
