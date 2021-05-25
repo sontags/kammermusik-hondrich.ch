@@ -17,4 +17,4 @@ __Ludwig van Beethoven__ (1770—1827)
 Klaviersonate Nr. 13 in Es-dur, Opus 27,1
 
 __Franz Schubert__ (1797—1828)  
-Fantasie in C-dur D 760 „Wandererfantasie“
+Fantasie in C-dur D 760 «Wandererfantasie»
