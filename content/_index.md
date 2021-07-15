@@ -7,9 +7,11 @@
 
 Liebes Publikum
 
-Mir grosser Freude laden wir Sie zum ersten Kammermusikkonzert  der Saison 2021 im Inforama Hondrich ein.
-Nach einem langen Winter ohne Live-Kultur, sind die Künstlerinnen und Künstler erleichtert, dass wieder Konzerte im kleinen Rahmen stattfinden dürfen.
-Wir bieten Ihnen am 9. Mai zwei Termine an und beschränken die Sitzplätze auf 35, damit wir die Abstände einhalten können.
+Die Kammermusikkonzerte Hondrich finden auch im speziellen Jahr 2021 statt.
+Wir passen uns laufend den Bedingungen an.
+Nach je zwei Konzerten im Mai und Juni findet das Konzert am 28. August mit dem Salonquintett «I Galanti» um 16 Uhr statt.
 
-Bern im April 2021  
-Bettina Keller, Franziska Grütter, Bernhard Berger
+Wir freuen uns auf Ihren Besuch!
+
+Bern im Juli 2021  
+Bettina Keller, Franziska Grüner, Bernhard Berger
