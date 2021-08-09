@@ -14,4 +14,4 @@ Nach je zwei Konzerten im Mai und Juni findet das Konzert am 28. August mit dem 
 Wir freuen uns auf Ihren Besuch!
 
 Bern im Juli 2021  
-Bettina Keller, Franziska Grüner, Bernhard Berger
+Bettina Keller, Franziska Grütter, Bernhard Berger
