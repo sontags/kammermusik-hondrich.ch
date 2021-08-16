@@ -6,14 +6,14 @@ image: "/2021_vbms.jpg"
 homepage: "www.vbms.ch"
 concertId: 48
 musicians:
-- Emilie Köther (2011), Violine *
+- Emilie Köther (2011), Violine &#42;
 - Céline Pfenninger (2004), Klavier
-- Elias Kobi (2005), Kontrabass *
-- Carla Keller (2002), Cello *
+- Elias Kobi (2005), Kontrabass &#42;
+- Carla Keller (2002), Cello &#42;
 - Clara Aeschlimann (2005), Klavier
 - Fabienne Müller (2003), Violine
 - Julius Aeschlimann (2003), Cello
-- * Begleitung: Bettina Keller, Klavier
+- &#42; Begleitung: Bettina Keller, Klavier
 
 ---
 Konzert mit Kindern und Jugendlichen aus der Kantonalen Talentförderung TFM
