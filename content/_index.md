@@ -13,5 +13,17 @@ Nach je zwei Konzerten im Mai und Juni findet das Konzert am 28. August mit dem 
 
 Wir freuen uns auf Ihren Besuch!
 
+<div class="corona">
+Bitte beachten:</br>
+Ab 13. September gilt auch für kulturelle Anlässe die Zertifikatspflicht. Der Eintritt ins Konzert ist nur mit einem gültigen Zertifikat (geimpft, genesen, getestet) und einem Personalausweis möglich. </br>
+
+<ul>
+<li>Kinder unter 16 Jahren brauchen kein Zertifikat, sie tragen eine Maske.</li>
+<li>Wichtig: Es sind nicht alle Apotheken/Praxen befähigt, ein Covid-Zertifikat für Getestete auszustellen.</li>
+<li>Eine Liste der möglichen Testorte im Kanton Bern finden Sie hier: https://www.gef.be.ch/gef/de/index/Corona/Corona/testlokalitaeten/schnelltest.html</li>
+<li>dafür gibt es keine Maskenpflicht mehr im Konzertsaal.</li>
+</ul>
+</div>
+
 Bern im Juli 2021  
 Bettina Keller, Franziska Grütter, Bernhard Berger
