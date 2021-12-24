@@ -1,28 +1,28 @@
 ---
 {
     "title": "Kammermusikkonzerte Hondrich",
-    "subtitle": "Saison 2021"
+    "subtitle": "Saison 2022"
 }
 ---
 
 Liebes Publikum
 
-Die Kammermusikkonzerte Hondrich finden auch im speziellen Jahr 2021 statt.
-Wir passen uns laufend den Bedingungen an.
-Nach je zwei Konzerten im Mai und Juni findet das Konzert am 28. August mit dem Salonquintett «I Galanti» um 16 Uhr statt.
+Wir freuen uns, Ihnen ein neues Saisonprogramm zu präsentieren.
 
-Wir freuen uns auf Ihren Besuch!
+Wir sind stolz darauf, dass wir in den letzten zwei Jahren alle Konzerte durchführen konnten.
+Es war uns immer in grosses Anliegen, dass die Musikerinnen und Musiker auftreten und vor
+Publikum musizieren können. Das ist uns gelungen; mit verschobenen Konzertterminen im Sommer
+statt im Winter, mit doppelt bis vierfach gespielten Konzerten mit weniger Publikum und
+das alles dank der Flexibilität der Künstler:innen.
 
-<div class="corona">
-<b>Bitte beachten Sie:<b><br><br>
+Die Saison 2022 steht unter dem Motto __«volle Bühne»__. 
 
-Ab 13. September gilt auch für kulturelle Anlässe die Zertifikatspflicht. Der Eintritt ins Konzert ist nur mit einem gültigen Zertifikat (geimpft, genesen, getestet) und einem Personalausweis möglich. <br><br>
+Wir hoffen, dass Sie unser Programm anspricht und dass die «volle Bühne» im «vollen Saal» steht.
+Bitte beachten Sie jeweils die aktuellen Informationen auf unserer Homepage, ob jedes Konzert
+zum geplanten Zeitpunkt stattfinden kann.
 
-Kinder unter 16 Jahren brauchen kein Zertifikat, sie tragen eine Maske.<br>
-Wichtig: Es sind nicht alle Apotheken/Praxen befähigt, ein Covid-Zertifikat für Getestete auszustellen.<br>
-Eine Liste der möglichen Testorte im Kanton Bern finden Sie <a href="https://www.gef.be.ch/gef/de/index/Corona/Corona/testlokalitaeten/schnelltest.html">auf der Webseite des Kantons</a>.<br>
-Dafür gibt es keine Maskenpflicht mehr im Konzertsaal.<br>
-</div>
 
-Bern im Juli 2021  
-Bettina Keller, Franziska Grütter, Bernhard Berger
+Bern im Dezember 2021  
+Bettina Keller und Franziska Grütter
+
+_Das traditionelle Neujahrskonzert mit «I Galanti» wird auf den Spätsommer verschoben._
