@@ -2,6 +2,7 @@
 title: "Im Tiefenrausch – Die Cellobass Gruppe vom Konsibern"
 date: "2022-04-03T17:00:00+01:00"
 publishDate: "2021-12-19T16:00:00+01:00"
+concertId: 50
 image: "/2022_im_tiefenrausch.jpg"
 musicians:
 - Beverley Ellis, Cello
