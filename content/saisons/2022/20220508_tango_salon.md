@@ -3,6 +3,7 @@ title: "Ensemble «Tango Salón»"
 date: "2022-05-08T17:00:00+01:00"
 publishDate: "2021-12-19T16:00:00+01:00"
 image: "/2022_tango_salon.jpg"
+concertId: 51
 homepage: "www.tango-salon.ch"
 musicians:
 - Franziska Grütter, Violine
