@@ -11,4 +11,9 @@ musicians:
 
 ---
 
+__Liebes Publikum, wir freuen uns über die grosse Nachfrage am Konzert! In unserem System sind wir bereits ausgebucht.__
+__Sie können uns trotzdem direkt oder via _kammermusik.hondrich@gmail.com_ kontaktieren; wir werden siche eine Lösung finden,__
+__so dass Sie «Virtuose Trios» mit uns geniessen können.__
+
+
 Werke von N. Paganini. H. Villa Lobos u.a.
