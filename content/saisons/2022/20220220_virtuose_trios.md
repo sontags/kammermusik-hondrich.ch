@@ -11,4 +11,8 @@ musicians:
 
 ---
 
+> Liebes Publikum, wir freuen uns über die grosse Nachfrage am Konzert! In unserem System sind wir bereits ausgebucht.
+> Sie können uns trotzdem direkt oder via _kammermusik.hondrich@gmail.com_ kontaktieren; wir werden dann eine Lösung finden,
+> so dass Sie «Virtuose Trios» mit uns geniessen können.
+
 Werke von N. Paganini. H. Villa Lobos u.a.
