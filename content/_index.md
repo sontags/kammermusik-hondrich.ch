@@ -6,6 +6,7 @@
 ---
 
 ![Niesen, Benedicht Friedli](/2023_niesen.jpg)
+
 Liebes Publikum
 
 Wir freuen uns sehr, Sie zu der Saison 2023 der Kammermusikkonzerte Hondrich einzuladen.
