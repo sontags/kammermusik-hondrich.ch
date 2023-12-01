@@ -4,34 +4,45 @@ type: special
 layout: simple
 ---
 
-__Reservationen via Webseite__  
-Sie können für jedes Konzert platzgenau bis um 12.00 Uhr am Konzerttag
-reservieren. Telefonische Reservationen können nur in Ausnahmefällen und
-unter der Telefonnummer 078 852 63 48 entgegengenommen werden.
+__Reservation__  
+kammermusik-hondrich.ch  
+Sie können für jedes Konzert bis 12.00 Uhr am Konzerttag platzgenau reservieren. Telefonische Reservationen nehmen wir in Ausnahmefällen
+unter der Telefonnummer 078 763 08 54 per SMS (Name und Adresse angeben) entgegen. Die Reservation ist verbindlich, bei Nichterscheinen
+erlauben wir uns, eine Rechnung zu stellen.  
 
 __Kontaktadresse, Bestellung Abonnemente__  
-Kammermusikkonzerte Hondrich: Bettina Keller, Ensingerstrasse 29, 3006 Bern
+Franziska Grütter  
+Fliederweg 31  
+3661 Uetendorf
 
-__Eintrittspreise__  
-Einzelkarten Fr. 30.–, Kinder im Schulalter Fr. 10.–  
-Abonnement für 4 Konzerte Fr. 100.– (übertragbar)  
-Schnupperabo für 2 Konzerte Fr. 55.– (nicht übertragbar)  
+__Eintrittspreise (nur Barzahlung)__  
+• Einzelkarten Fr. 30.-, Kinder im Schulalter Fr. 10.-  
+• Abonnement für 4 Konzerte (übertragbar) Fr. 100.-  
+• Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-  
+
 Programmänderungen vorbehalten.
 
-__Konzertort, Hin- und Rückfahrt__  
-Die Konzerte finden jeweils um 17.00 Uhr im Grossen Saal des Inforamas
-Hondrich statt. Ab 16.15 Uhr ist die Tageskasse geöffnet.
-Die Kammermusikkonzerte Hondrich können Sie bequem mit öffentlichen
-Verkehrsmitteln erreichen.
 
-Züge Bern ab 16.04h  
-Interlaken Ost ab 16.00h  
-Frutigen ab 16.03h  
-bis Spiez.
+__Zeiten__  
+Die Konzerte im Januar, März und Mai finden um 17.00 Uhr im Grossen Saal des Inforamas 3702 Hondrich, Hofstatt statt.  
+Das Konzert am 4. Februar findet in der Kulturkapelle Spiez, Kapellenstrasse 9 statt.
 
-Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus.
+Ab 16.15 Uhr ist die Kasse geöffnet (in der Kulturkapelle ab 16.30 Uhr). Nach dem Konzert findet jeweils ein Apéro mit den Musikerinnen und
+Musikern statt.
 
-Rückfahrt Hondrich ab 19.09h / 19.23h / 20.09h mit Anschluss an die Züge
-im Bahnhof Spiez Richtung Thun/Bern, Interlaken und Frutigen.
+__Anreise__  
+Die Kammermusikkonzerte Hondrich erreichen Sie bequem mit dem öffentlichen Verkehr.
 
-<iframe src='https://map.geo.admin.ch/embed.html?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fdzd9GaMPS9-LudgJA3Avyw&layers_visibility=false,false,true,false,true&layers_timestamp=18641231,,,,&E=2618612.27&N=1169085.46&zoom=10' width='100%' height='600px' frameborder='0' style='border:0'></iframe>:
+Züge nach Spiez:  
+• Bern ab 16:04 Uhr  
+• Interlaken Ost ab 16:08 Uhr  
+• Frutigen ab 16:03 Uhr  
+
+Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus: Spiez ab 16:37 Uhr
+
+__Rückreise__  
+Hondrich ab 19:09h, 19:23h, 20:09h mit Anschluss an die Züge im Bahnhof Spiez Richtung Thun/Bern, Interlaken und Frutigen.
+
+__Lageplan__
+
+<iframe src='https://map.geo.admin.ch/embed.html?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fdzd9GaMPS9-LudgJA3Avyw&layers_visibility=false,false,true,false,true&layers_timestamp=18641231,,,,&E=2618612.27&N=1169085.46&zoom=10' width='100%' height='600px' frameborder='0' style='border:0'></iframe>
