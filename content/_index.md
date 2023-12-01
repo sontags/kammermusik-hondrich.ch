@@ -5,19 +5,35 @@
 }
 ---
 
-![Niesen, Benedicht Friedli](/2023_niesen.jpg)
+![Niesen, Benedicht Friedli](/2024_niesen.jpg)
+
 
 Liebes Publikum
 
-Wir freuen uns sehr, Sie zu der Saison 2023 der Kammermusikkonzerte Hondrich einzuladen.
+Wir freuen uns sehr, Sie zur Saison 2024 der Kammermusikkonzerte
+Hondrich einzuladen.  
+Unser neues Programm ist vielfältig und bietet hoffentlich vielen ver‐
+schiedenen Geschmäckern ein attraktives Erlebnis an.  
+Die beiden Neujahrskonzerte mit dem Salonquintett «I Galanti» beglei‐
+ten unser treues Publikum seit Jahren mit Schwung und Freude ins
+neue Jahr. Die Musiker:innen spielen 25 Jahren in der selben Beset‐
+zung. Die lange Erfahrung im Zusammenspiel ist eine der herausragen‐
+den Qualitäten dieses Ensembles.  
+Im Februar findet das Konzert in der Kulturkapelle Spiez statt. Die drei
+Künstlerinnen des Trios «siJamais» führen unterschiedliche Musikstile
+zusammen: Eigenes und Fremdes, Chansons und Schlager, Klezmer
+und Pop, Ohrwürmer und Wiederentdeckungen, originell arrangiert. Ein
+lustvolles Wechselspiel zwischen berührendem Humor und augenzwin‐
+kerndem Melodram.  
+Das Märzkonzert widmen wir dem klassischen Streichquartett und dem
+generationenübergreifenden «Quartetto Aureo», welches Perlen dieses
+Genres präsentieren wird.  
+Nach einer längeren Pause beschliessen wir die Saison Ende Mai mit
+einem Solorezital des jungen, international erfolgreichen Harfensolisten
+Joel von Lerber, der in Bern aufgewachsen ist.  
+Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.
+Bern/Uetendorf im November 2023
 
-Nach zwei Jahren Pause wollen wir im Januar 2023 die Saison wieder mit Neujahrskonzerten starten. Das Salonquintett I Galanti bereitet ein emotionales, farbiges und fröhliches Programm vor.
-Für das Februarkonzert konnten wir den polnisch-bernischen Pianisten Marcin Fleszar engagieren. Er hat 2020 eine wunderschöne CD mit Werken von Rameau und Schumann eingespielt und er kann nun in Hondrich seine Interpretationen vorstellen.
-Im April reist das Orbis-Quartett aus Berlin nach Hondrich. Die vier jungen Musiker:innen haben hier am Vorabend des ersten Lockdowns im März 2020 für ein winziges Publikum ein sehr berührendes Konzert gespielt und wir lösen nun unser Versprechen ein, dass sie noch einmal vor einem vollen Saal auftreten dürfen!
-Auch im Maikonzert werden Sie ein junges Ensemble kennenlernen: Das Calvino-Trio aus Basel präsentiert uns grosse Werke der Klaviertrio-Literatur.
 
-Wir hoffen, dass Sie unser Programm anspricht. Bitte beachten Sie jeweils die aktuellen Informationen auf unserer Homepage, ob jedes Konzert zum geplanten Zeitpunkt stattfinden kann.
-Wir danken Ihnen für Ihr Interesse und freuen uns auf die Konzerte.
-
-Bern/Hondrich im Dezember 2022  
-Bettina Keller und Franziska Grütter
+Mit freundlichen Grüssen Bettina Keller und Franziska Grütter  
+Bern/Hondrich im Dezember 2022, Bettina Keller und Franziska Grütter

@@ -8,7 +8,7 @@
 {{ range .Sections }}
 {{ $saison := .Param "saison" }}
 {{ if eq $saison $currentSaison }}
-<div><a href="{{ .URL }}">
+<div><a href="{{ .Permalink }}">
         Saison {{ if isset .Params "title" }}{{ .Param "title" }}{{ else }} {{ $saison }} {{ end }}
 </a></div>
 {{ end }}
@@ -19,7 +19,7 @@
 {{ range .Sections.Reverse }}
 {{ $saison := .Param "saison" }}
 {{ if ne $saison .Site.Params.currentSaison }}
-<div><a href="{{ .URL }}">
+<div><a href="{{ .Permalink }}">
         Saison {{ if isset .Params "title" }}{{ .Param "title" }}{{ else }} {{ $saison }} {{ end }}
 </a></div>
 {{ end }}
