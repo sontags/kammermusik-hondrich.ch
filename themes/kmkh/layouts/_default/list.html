@@ -4,7 +4,7 @@
 
 {{ define "content" }}
 {{ range .Pages }}
-<div><a href="{{ .Permalink }}">
+<div><a href="{{ .RelPermalink }}">
     {{ index $.Site.Data.tage (printf "%d" .Date.Weekday) }}, {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}, {{ .Date.Format "16:04" }} Uhr - {{ .Title }}
 </a></div>
 {{ end }}

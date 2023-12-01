@@ -1,4 +1,4 @@
-{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url := replace .RelPermalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $.Scratch.Add "path" .Site.BaseURL }}
 <ol class="breadcrumbs">
   <li><a href="/">home</a></li>
