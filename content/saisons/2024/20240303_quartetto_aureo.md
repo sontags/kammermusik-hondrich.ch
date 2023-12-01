@@ -29,10 +29,7 @@ Finale. Vivace ma non troppo
 __Antonín Dvořák (1841—1904)__  
 Choral op. 63 in g-Moll «Hörst Du des Haines Abendgeläute»
 
-Das «Quartetto Aureo» mit Franziska Grütter, Michael Keller, Irene Ara‐
-metti, und Carla Keller wurde aus musikalisch-freundschaftlicher Ver‐
-bundenheit 2022 gegründet. Die vier leidenschaftlichen Kammermusi‐
-ker:innen widmen sich mit Entdeckergeist und Spiellust der Gattung
-Streichquartett, wobei sie zwei gegensätzliche Werke von unglaubli‐
-chem Ideenreichtum ihrer Schöpfer für das Hondricher Publikum aus‐
-gewählt haben.
+Das «Quartetto Aureo» mit Franziska Grütter, Michael Keller, Irene Arametti, und Carla Keller wurde aus musikalisch-freundschaftlicher 
+Verbundenheit 2022 gegründet. Die vier leidenschaftlichen Kammermusiker:innen widmen sich mit Entdeckergeist und Spiellust der Gattung
+Streichquartett, wobei sie zwei gegensätzliche Werke von unglaubli‐chem Ideenreichtum ihrer Schöpfer für das Hondricher Publikum
+ausgewählt haben.
