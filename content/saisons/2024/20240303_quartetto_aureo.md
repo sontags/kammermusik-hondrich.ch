@@ -31,5 +31,5 @@ Choral op. 63 in g-Moll «Hörst Du des Haines Abendgeläute»
 
 Das «Quartetto Aureo» mit Franziska Grütter, Michael Keller, Irene Arametti, und Carla Keller wurde aus musikalisch-freundschaftlicher 
 Verbundenheit 2022 gegründet. Die vier leidenschaftlichen Kammermusiker:innen widmen sich mit Entdeckergeist und Spiellust der Gattung
-Streichquartett, wobei sie zwei gegensätzliche Werke von unglaubli‐chem Ideenreichtum ihrer Schöpfer für das Hondricher Publikum
+Streichquartett, wobei sie zwei gegensätzliche Werke von unglaublichem Ideenreichtum ihrer Schöpfer für das Hondricher Publikum
 ausgewählt haben.
