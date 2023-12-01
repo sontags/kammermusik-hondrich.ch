@@ -25,7 +25,7 @@
 
                 {{ if eq .Section "saisons" }}{{ if ne .CurrentSection . }}{{ if isset .CurrentSection.Params "saison" }}{{ if eq .CurrentSection.Params.saison .Site.Params.currentSaison }}
                 <li class="menuitem">
-                    <a href="{{ .Permalink }}" class="">
+                    <a href="{{ .RelPermalink }}" class="">
                         {{ if isset .Params "date_unknown" }}
                         <div class="date">Datum noch nicht bekannt</div>
                         {{ else }}
