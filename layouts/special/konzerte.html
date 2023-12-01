@@ -4,7 +4,7 @@
 <div class="list">
     {{ range .Pages.Reverse }}
     <div class="element">
-        <a href="{{ .URL }}">
+        <a href="{{ .Permalink }}">
             <div class="date">
                 {{ if isset .Params "date_unknown" }}
                 Datum noch nicht bekannt
