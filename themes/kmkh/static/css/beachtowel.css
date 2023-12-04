@@ -90,7 +90,7 @@
 }
 
 #stage {
-    fill: white;
+    fill: black;
     stroke: black;
     stroke-width: 2;
 }
@@ -103,21 +103,21 @@
 }
 
 .seat[data-status="none"]:hover {
-  fill: green;
+  fill: #777;
 }
 
 .seat[data-status="marked"] {
-  fill: pink;
+  fill: #555;
 }
 
 .seat[data-status="pending"] {
-  fill: grey;
+  fill: black;
 }
 
 .seat[data-status="completed"]:hover, .seat[data-status="confirmed"]:hover, .seat[data-status="pending"]:hover {
-  fill: red;
+  animation: horizontal-shaking 0.35s infinite;
 }
 
-.seat[data-status="completed"]:active, .seat[data-status="confirmed"]:active, .seat[data-status="pending"]:hover {
+.seat[data-status="completed"]:active, .seat[data-status="confirmed"]:active, .seat[data-status="pending"]:active {
   animation: horizontal-shaking 0.35s infinite;
 }
