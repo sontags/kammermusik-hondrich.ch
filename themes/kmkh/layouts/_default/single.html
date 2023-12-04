@@ -36,44 +36,69 @@
 {{ end }}
 
 
-{{ define "usher" }}
+{{ define "beachtowel" }}
 {{ $currentSaison := .Site.Params.currentSaison }}
 {{ $saison := .CurrentSection.Param "saison" }}
 {{ if eq $saison $currentSaison }}
 {{ if isset .Params "concertid" }}
 {{ $cid := .Param "concertid" }}
 <br /><br />
-<div class="reservation">
-    <div class="usher">
+<div id="reservation_panel" class="reservation">
+    <div class="beachtowel">
         <div class="panel places">
             <div class="booking-first-step"><p>Bitte wählen Sie die Sitzplätze:</p></div>
-            <div class="usher_map large-map" data-usher-venue-svg="{{$cid}}"></div>
+            <div id="beachtowel-map" class="beachtowel_map large-map" data-beachtowel-event-svg="{{$cid}}"></div>
         </div>
 
         <div class="panel details">
             <div class="booking-second-step"><p>Geben Sie Namen und Emailadresse an:</p></div>
             <div class="form_row">
-                <div class="input"><input placeholder="Name Vorname" class="usher_name" type="text" name="name" data-usher-venue="{{$cid}}"></div>
-                <div class="info"><div class="usher_name_info" data-usher-venue="{{$cid}}"></div></div>
+                <div class="input"><input placeholder="Name Vorname" id="name" class="beachtowel_name" type="text" name="name" data-beachtowel-event="{{$cid}}"></div>
+                <div class="info"><div class="beachtowel_name_info" data-beachtowel-event="{{$cid}}"></div></div>
             </div>
             <div class="form_row">
-                <div class="input"><input placeholder="Email" class="usher_email" type="text" name="email" data-usher-venue="{{$cid}}"></div>
-                <div class="info"><div class="usher_email_info" data-usher-venue="{{$cid}}"></div></div>
+                <div class="input"><input placeholder="Email" id="email" class="beachtowel_email" type="text" name="email" data-beachtowel-event="{{$cid}}"></div>
+                <div class="info"><div class="beachtowel_email_info" data-beachtowel-event="{{$cid}}"></div></div>
             </div>
             <div class="form_row">
-                <div class="input"><div class="usher_send button" data-usher-venue="{{$cid}}">Reservieren</div></div>
-                <div class="info"><div class="usher_sent_info" data-usher-venue="{{$cid}}"></div></div>
+                <div class="input"><div id="send" class="beachtowel_send button" data-beachtowel-event="{{$cid}}">Reservieren</div></div>
+                <div class="info"><div class="beachtowel_sent_info" data-beachtowel-event="{{$cid}}"></div></div>
             </div>
         </div>
     </div>
 
-    <div class="to_reservation" data-venue="{{$cid}}">
-        <div class="book init-hidden">
+    <div id="to_reservation" class="to_reservation" data-event="{{$cid}}">
+        <div id="to_reservation_book" class="book">
             Plätze verbindlich reservieren
         </div>
         <div class="locked init-hidden">Die Reservationen für das Konzert sind geschlossen.<br>Eintritte sind an der Abendkasse erhältlich.</div>
     </div>
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://beachtowel.terrible.services/client.js"></script>
+<script>
+    'use strict';
+        function finalizeReservation() {
+            let target = document.getElementById("reservation_panel");
+            target.innerHTML = "<div>Reservation gesendet!</div>";
+            console.log(target);
+        }
+
+    document.addEventListener("DOMContentLoaded", function(event) {
+        const bt = new Beachtowel("o-clms63hch710uk3e6v80", "{{$cid}}");
+        bt.placeSeatingPlan("beachtowel-map");
+        bt.setupSendForm("email", "name", "send", finalizeReservation);
+
+        jQuery(function($) {
+            $('.book').click(function() {
+                $('.beachtowel').fadeIn(200);
+                $('.to_reservation').fadeOut(200);
+            });
+
+        });
+
+    });
+</script>
 {{ else }}
 <br /><br />
 <div class="reservation">

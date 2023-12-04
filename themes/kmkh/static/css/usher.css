@@ -25,19 +25,19 @@
     cursor: pointer;
 }
 
-.usher p {
+.beachtowel p {
     padding-bottom: 20px;
 }
 
-.usher .form_row {
+.beachtowel .form_row {
     padding-bottom: 10px
 }
 
-.usher_map > svg {
+.beachtowel_map > svg {
     max-width: 100%;
 }
 
-.to_reservation, .usher {
+.to_reservation, .beachtowel {
     padding-left: 60px;
     padding-right: 75px;
     width: auto;
@@ -45,46 +45,46 @@
     margin: auto;
 }
 
-.usher .panel.details  {
+.beachtowel .panel.details  {
     padding-top: 20px;
 }
 
 @media only screen and (min-width: 600px) {
-    .usher .panel {
+    .beachtowel .panel {
         width: 46%;
     }
 
-    .usher .panel.places  {
+    .beachtowel .panel.places  {
         float: left;
     }
 
-    .usher .panel.details  {
+    .beachtowel .panel.details  {
         float: right;
         padding-top: 0;
     }
 }
 
-.usher, .init-hidden {
+.beachtowel, .init-hidden {
     display: none;
 }
 
-.usher_occupied {
+.beachtowel_occupied {
     fill: black;
     stroke-width: 0;
 }
 
-.usher_empty {
+.beachtowel_empty {
     fill: white;
     stroke: black;
     stroke-width: 2;
 }
 
-.usher_selected {
+.beachtowel_selected {
     fill: #333;
     stroke-width: 0;
 }
 
-.usher_pending {
+.beachtowel_pending {
     fill: #666;
     stroke-width: 0;
 }
@@ -93,4 +93,31 @@
     fill: white;
     stroke: black;
     stroke-width: 2;
+}
+
+.seat[data-status="none"] {
+  fill: #FFF;
+  stroke: #646464;
+  stroke-width: 2px;
+  stroke-location: inside;
+}
+
+.seat[data-status="none"]:hover {
+  fill: green;
+}
+
+.seat[data-status="marked"] {
+  fill: pink;
+}
+
+.seat[data-status="pending"] {
+  fill: grey;
+}
+
+.seat[data-status="completed"]:hover, .seat[data-status="confirmed"]:hover, .seat[data-status="pending"]:hover {
+  fill: red;
+}
+
+.seat[data-status="completed"]:active, .seat[data-status="confirmed"]:active, .seat[data-status="pending"]:hover {
+  animation: horizontal-shaking 0.35s infinite;
 }
