@@ -1,7 +1,7 @@
 ---
 {
     "title": "Kammermusikkonzerte Hondrich",
-    "subtitle": "Saison 2023"
+    "subtitle": "Saison 2024"
 }
 ---
 
