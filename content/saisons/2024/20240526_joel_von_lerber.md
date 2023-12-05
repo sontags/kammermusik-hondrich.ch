@@ -3,6 +3,7 @@ title: "Joel von Lerber, Harfe"
 date: "2024-05-26T17:00:00+01:00"
 publishDate: "2021-12-10T16:00:00+01:00"
 image: "/2024_Joel_von_Lerber.jpg"
+concertId: "o-clms63hch710uk3e6v80_e-cln8f41ch7120dcb9rsk"
 homepage: "joelvonlerber.com"
 ---
 
