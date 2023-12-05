@@ -18,7 +18,7 @@ layout: simple
         const organizerId = urlParams.get('oid');
         const id = urlParams.get('id');
         const token = urlParams.get('token');
-        const bt = new Beachtowel(organizerId, eventid);
+        const bt = new Beachtowel(organizerId, eventId);
         try {
             bt.cancel(id, token)
             const dest = document.getElementById('beachtowel_confirm');
