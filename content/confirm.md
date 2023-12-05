@@ -7,7 +7,6 @@ layout: simple
 <p id="beachtowel_confirm">Bitte warten, Ihre Anfrage wird verarbeitet...</p><br><br>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://beachtowel.terrible.services/client.js"></script>
 <script>
     'use strict';
@@ -20,11 +19,11 @@ layout: simple
         const token = urlParams.get('token');
         const bt = new Beachtowel(organizerId, eventId);
         try {
-            bt.cancel(id, token)
-            const dest = document.getElementById('beachtowel_confirm');
-            dest.innerHMTL = "Reservation storniert."
+            bt.cancel(id, token);
+            let dest = document.getElementById('beachtowel_confirm');
+            dest.innerHMTL = "Reservation storniert.";
         } catch (error) {
-            console.log("did not work")
+            console.log("did not work");
         }
 
     });
