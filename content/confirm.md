@@ -21,7 +21,7 @@ layout: simple
         try {
             bt.cancel(id, token);
             let dest = document.getElementById('beachtowel_confirm');
-            dest.innerHMTL = "Reservation storniert.";
+            dest.innerHTML = "Reservation storniert.";
         } catch (error) {
             console.log("did not work");
         }
