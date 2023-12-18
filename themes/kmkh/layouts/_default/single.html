@@ -61,6 +61,9 @@
                 <div class="info"><div class="beachtowel_email_info" data-beachtowel-event="{{$cid}}"></div></div>
             </div>
             <div class="form_row">
+                <div class="info" id="form_error"></div>
+            </div>
+            <div class="form_row">
                 <div class="input"><div id="send" class="beachtowel_send button" data-beachtowel-event="{{$cid}}">Reservieren</div></div>
                 <div class="info"><div class="beachtowel_sent_info" data-beachtowel-event="{{$cid}}"></div></div>
             </div>
@@ -90,7 +93,7 @@
         }
 
     document.addEventListener("DOMContentLoaded", function(event) {
-        const bt = new Beachtowel("o-clms63hch710uk3e6v80", "{{$cid}}");
+        const bt = new Beachtowel("o-clms63hch710uk3e6v80", "{{$cid}}", "form_error");
         bt.placeSeatingPlan("beachtowel-map");
         bt.setupSendForm("email", "name", "send", finalizeReservation);
 
