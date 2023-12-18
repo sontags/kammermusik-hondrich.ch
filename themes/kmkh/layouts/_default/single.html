@@ -93,7 +93,7 @@
         }
 
     document.addEventListener("DOMContentLoaded", function(event) {
-        const bt = new Beachtowel("o-clms63hch710uk3e6v80", "{{$cid}}", "form_error");
+        const bt = new Beachtowel("https://beachtowel.terrible.services/api/v1","o-clms63hch710uk3e6v80", "{{$cid}}", "form_error");
         bt.placeSeatingPlan("beachtowel-map");
         bt.setupSendForm("email", "name", "send", finalizeReservation);
 
