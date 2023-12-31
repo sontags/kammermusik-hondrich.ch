@@ -17,7 +17,14 @@ layout: simple
         const organizerId = urlParams.get('oid');
         const id = urlParams.get('id');
         const token = urlParams.get('token');
-        const bt = new Beachtowel("https://beachtowel.terrible.services/api/v1",organizerId, eventId, "beachtowel_confirm");
+
+        const config = {
+            baseurl: "https://beachtowel.terrible.services/api/v1",
+            organizerId: organizerId,
+            eventId: eventId,
+        }
+        const bt = new Beachtowel(config);
+
         try {
             bt.cancel(id, token);
             let dest = document.getElementById('beachtowel_confirm');
