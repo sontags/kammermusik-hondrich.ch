@@ -93,6 +93,7 @@
 
     function whenLocked() {
         let target = document.getElementById("to_reservation_book");
+        target.classList.remove("book");
         target.innerHTML = "Es werden keine Online Reservationen mehr entgegengenommen.";
     }
 
