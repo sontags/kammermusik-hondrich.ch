@@ -7,7 +7,7 @@ layout: simple
 <p id="beachtowel_confirm">Bitte warten, Ihre Anfrage wird verarbeitet...</p><br><br>
 
 
-<script type="text/javascript" src="https://beachtowel.terrible.services/client.js"></script>
+<script type="text/javascript" src="https://beachtowel.terrible.services/public/beachtowel.js"></script>
 <script>
     'use strict';
 
