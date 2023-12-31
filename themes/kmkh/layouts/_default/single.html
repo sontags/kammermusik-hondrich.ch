@@ -44,7 +44,7 @@
 {{ $cid := .Param "concertid" }}
 <br /><br />
 <div id="reservation_panel" class="reservation">
-    <div class="beachtowel" id="beachtower_wrapper">
+    <div class="beachtowel" id="beachtowel_wrapper">
         <div class="panel places">
             <div class="booking-first-step"><p>Bitte wählen Sie die Sitzplätze:</p></div>
             <div id="beachtowel-map" class="beachtowel_map large-map" data-beachtowel-event-svg="{{$cid}}"></div>
@@ -83,28 +83,42 @@
     </div>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://beachtowel.terrible.services/client.js"></script>
+<script type="text/javascript" src="https://beachtowel.terrible.services/public/beachtowel.js"></script>
 <script>
     'use strict';
-        function finalizeReservation() {
-            let target = document.getElementById("beachtower_wrapper");
-            target.innerHTML = "<div class=\"panel\">Reservation gesendet!</div>";
-            console.log(target);
-        }
+    function finalizeReservation() {
+        let target = document.getElementById("beachtowel_wrapper");
+        target.innerHTML = "<div class=\"panel\">Reservation gesendet!</div>";
+    }
+
+    function whenLocked() {
+        let target = document.getElementById("to_reservation_book");
+        target.innerHTML = "Es werden keine Online Reservationen mehr entgegengenommen.";
+    }
 
     document.addEventListener("DOMContentLoaded", function(event) {
-        const bt = new Beachtowel("https://beachtowel.terrible.services/api/v1","o-clms63hch710uk3e6v80", "{{$cid}}", "form_error");
-        bt.placeSeatingPlan("beachtowel-map");
-        bt.setupSendForm("email", "name", "send", finalizeReservation);
+        const config = {
+            baseurl: "https://beachtowel.terrible.services/api/v1",
+            organizerId: "o-clms63hch710uk3e6v80",
+            eventId: "{{$cid}}",
+        }
+        const bt = new Beachtowel(config);
+        const setupConfig = {
+            errorElementId: "form_error",
+            lockedElementId: "beachtowel_wrapper",
+            mapElementId: "beachtowel-map",
+            emailElementId: "email",
+            nameElementId: "name",
+            sendElementId: "send",
+        }
+        bt.setup(setupConfig, finalizeReservation, whenLocked);
 
         jQuery(function($) {
             $('.book').click(function() {
                 $('.beachtowel').fadeIn(200);
                 $('.to_reservation').fadeOut(200);
             });
-
         });
-
     });
 </script>
 {{ else }}
