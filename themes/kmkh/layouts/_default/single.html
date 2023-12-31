@@ -83,7 +83,7 @@
     </div>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://beachtowel.terrible.services/client.js"></script>
+<script type="text/javascript" src="https://beachtowel.terrible.services/public/beachtowel.js"></script>
 <script>
     'use strict';
         function finalizeReservation() {
@@ -93,9 +93,19 @@
         }
 
     document.addEventListener("DOMContentLoaded", function(event) {
-        const bt = new Beachtowel("https://beachtowel.terrible.services/api/v1","o-clms63hch710uk3e6v80", "{{$cid}}", "form_error");
-        bt.placeSeatingPlan("beachtowel-map");
-        bt.setupSendForm("email", "name", "send", finalizeReservation);
+        const config = {
+          baseurl: "https://beachtowel.terrible.services/api/v1",
+          organizerId: "o-clms63hch710uk3e6v80",
+          eventId: "{{$cid}}",
+          errorElementId: "form_error",
+          lockedElementId: "beachtowel_wrapper",
+          mapElementId: "beachtowel-map",
+          emailElementId: "email",
+          nameElementId: "name",
+          sendElementId: "send",
+        }
+        const bt = new Beachtowel(config);
+        bt.setup(finalizeReservation);
 
         jQuery(function($) {
             $('.book').click(function() {
