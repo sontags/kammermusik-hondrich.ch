@@ -35,6 +35,8 @@
 
 .beachtowel_map > svg {
     max-width: 100%;
+    height: auto;
+    width: auto;
 }
 
 .to_reservation, .beachtowel {
