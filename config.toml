@@ -6,3 +6,5 @@ theme = "kmkh"
 [params]
   currentSaison = "2024"
 
+[markup.goldmark.renderer]
+unsafe= true
