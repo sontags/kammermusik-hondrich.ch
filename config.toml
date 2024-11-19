@@ -4,7 +4,7 @@ title = "KMKH"
 theme = "kmkh"
 
 [params]
-  currentSaison = "2024"
+  currentSaison = "2025"
 
 [markup.goldmark.renderer]
 unsafe= true
