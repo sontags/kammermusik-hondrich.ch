@@ -24,8 +24,8 @@ Programmänderungen vorbehalten.
 
 
 __Zeiten__  
-Die Konzerte im Januar, März und Mai finden um 17:00 Uhr im Grossen Saal des Inforamas 3702 Hondrich, Hofstatt statt.  
-Das Konzert am 4. Februar findet in der Kulturkapelle Spiez, Kapellenstrasse 9 statt.
+Die Konzerte im Januar, Februar und März finden um 17:00 Uhr im Grossen Saal des Inforamas 3702 Hondrich, Hofstatt statt.  
+Das Konzert am 27. April findet in der Kulturkapelle Spiez, Kapellenstrasse 9 statt.
 
 Ab 16:15 Uhr ist die Kasse geöffnet (in der Kulturkapelle ab 16:30 Uhr). Nach dem Konzert findet jeweils ein Apéro mit den Musikerinnen und
 Musikern statt.
@@ -35,13 +35,13 @@ Die Kammermusikkonzerte Hondrich erreichen Sie bequem mit dem öffentlichen Verk
 
 Züge nach Spiez:  
 • Bern ab 16:04 Uhr  
-• Interlaken Ost ab 16:08 Uhr  
-• Frutigen ab 16:03 Uhr  
+• Interlaken Ost ab 16:07 Uhr  
+• Frutigen ab 16:01 Uhr  
 
 Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus: Spiez ab 16:37 Uhr
 
 __Rückreise__  
-Hondrich ab 19:09 Uhr, 19:23 Uhr und 20:09 Uhr mit Anschluss an die Züge im Bahnhof Spiez Richtung Thun/Bern, Interlaken und Frutigen.
+Hondrich ab 19:09 Uhr, 19:27 Uhr und 20:09 Uhr mit Anschluss an die Züge im Bahnhof Spiez Richtung Thun/Bern, Interlaken und Frutigen.
 
 __Lageplan__
 
