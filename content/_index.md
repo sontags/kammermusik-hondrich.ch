@@ -7,21 +7,27 @@
 
 ![Niesen, Benedicht Friedli](/2024_niesen.jpg)
 
+__Fünf Konzerte im grossen Saal des Inforamas Hondrich__
 
 Liebes Publikum
 
-Wir freuen uns sehr, Sie zur Saison 2024 der Kammermusikkonzerte Hondrich einzuladen.  
-Unser neues Programm ist vielfältig und bietet hoffentlich vielen verschiedenen Geschmäckern ein attraktives Erlebnis an.  
-Die beiden Neujahrskonzerte mit dem Salonquintett «I Galanti» begleiten unser treues Publikum seit Jahren mit Schwung und
-Freude ins neue Jahr. Die Musiker:innen spielen seit 25 Jahren in der selben Besetzung. Die lange Erfahrung im Zusammenspiel
-ist eine der herausragenden Qualitäten dieses Ensembles.  
-Im Februar findet das Konzert in der Kulturkapelle Spiez statt. Die drei Künstlerinnen des Trios «siJamais» führen
-unterschiedliche Musikstile zusammen: Eigenes und Fremdes, Chansons und Schlager, Klezmer und Pop, Ohrwürmer und
-Wiederentdeckungen, originell arrangiert. Ein lustvolles Wechselspiel zwischen berührendem Humor und augenzwinkerndem Melodram.  
-Das Märzkonzert widmen wir dem klassischen Streichquartett und dem generationenübergreifenden «Quartetto Aureo», welches
-Perlen dieses Genres präsentieren wird.  
-Nach einer längeren Pause beschliessen wir die Saison Ende Mai mit einem Solorezital des jungen, international
-erfolgreichen Harfensolisten Joel von Lerber, der in Bern aufgewachsen ist.  
+Wir haben ein reichhaltiges Programm zusammengestellt mit unserem bewährten Rezept:
+Bekannte Ensembles und Musikerpersönlichkeiten treffen auf ein Konzert mit den jüngsten,
+begeisterten und talentierten Musiker:innen aus dem Kanton Bern. Damit geben wir einmal
+mehr die Bühne frei für die zukünftige Musiker-Generation.
 
-Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.  
-Bern/Uetendorf im November 2023
+Im Januar beginnt die Saison traditionell mit den beiden Neujahrskonzerten des
+Salonquintetts «I Galanti».
+
+Im Februarkonzert spielen die befreundeten Musiker:innen Dubach-Ganz-Keller ein interessantes
+Programm mit Werken, die allesamt vor rund hundert Jahren komponiert wurden.
+
+Das Programm des März-Konzertes mit der kantonalen Talentförderung steht noch nicht im Detail
+fest. Wir versprechen aber schon heute, dass sich ein Besuch lohnen wird: Diese Konzerte sind
+immer ausserordentlich vielfältig und berührend. 
+
+Und im April freuen wir uns auf das Wiedersehen mit dem Ensemble «Tango Salón», von dem sich
+das Hondricher Publikum schon mehrmals verführen und begeistern liess.
+
+Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.
+Bern/Uetendorf im November 2025
