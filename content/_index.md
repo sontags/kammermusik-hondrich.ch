@@ -30,4 +30,4 @@ Und im April freuen wir uns auf das Wiedersehen mit dem Ensemble «Tango Salón�
 das Hondricher Publikum schon mehrmals verführen und begeistern liess.
 
 Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.  
-Bern/Uetendorf im November 2025
+Bettina Keller und Franziska Grütter, Bern/Uetendorf im November 2025
