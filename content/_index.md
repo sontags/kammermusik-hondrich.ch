@@ -5,7 +5,7 @@
 }
 ---
 
-![Niesen, Benedicht Friedli](/2024_niesen.jpg)
+![Niesen, Benedicht Friedli](/2025_niesen.png)
 
 __Fünf Konzerte im grossen Saal des Inforamas Hondrich__
 
