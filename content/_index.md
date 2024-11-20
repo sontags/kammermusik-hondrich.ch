@@ -1,7 +1,7 @@
 ---
 {
     "title": "Kammermusikkonzerte Hondrich",
-    "subtitle": "Saison 2024"
+    "subtitle": "Saison 2025"
 }
 ---
 
@@ -29,5 +29,5 @@ immer ausserordentlich vielfältig und berührend.
 Und im April freuen wir uns auf das Wiedersehen mit dem Ensemble «Tango Salón», von dem sich
 das Hondricher Publikum schon mehrmals verführen und begeistern liess.
 
-Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.
+Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.  
 Bern/Uetendorf im November 2025
