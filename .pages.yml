@@ -72,4 +72,4 @@ content:
       default:
         search: ''
         sort: date
-        order: desc
+        order: asc
