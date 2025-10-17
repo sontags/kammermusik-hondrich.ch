@@ -18,7 +18,7 @@ content:
         type: date
         required: true
       - name: publishDate
-        label: Publish Datce
+        label: Publish Date
         type: date
         required: true
       - name: image
