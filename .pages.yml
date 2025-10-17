@@ -4,6 +4,8 @@ content:
     label: Current Saison
     path: content/saisons/2025
     type: collection
+    exclude:
+      - _index.md
     fields:
       - name: title
         label: Title
