@@ -69,10 +69,6 @@ content:
       primary: title
       sort: [ date, title ]
       layout: tree
-      default:
-        search: ''
-        sort: date
-        order: asc
   - name: infos
     label: Infos
     path: content/infos.md
