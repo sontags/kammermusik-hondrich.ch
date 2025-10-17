@@ -1,4 +1,6 @@
-media: static
+media:
+  input: static
+  output: /
 content:
   - name: current
     label: Current Saison
