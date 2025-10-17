@@ -94,7 +94,7 @@ content:
         label: Body
         type: rich-text
         required: true
-          - name: infos
+  - name: infos
     label: Infos
     path: content/infos.md
     type: file
