@@ -1,0 +1,34 @@
+media: static
+content:
+  - name: current
+    label: Current Saison
+    path: content/saisons/2025
+    type: collection
+    fields:
+      - name: title
+        label: Title
+        type: text
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: publishDate
+        label: Publish Datce
+        type: date
+        required: true
+      - name: image
+        label: Image
+        type: image
+        required: true
+      - name: concertId
+        label: Concert ID
+        type: string
+        required: true
+      - name: homepage
+        label: Homepage
+        type: string
+      - name: musicians
+        label: Musicians
+        type: string
+        list: true
