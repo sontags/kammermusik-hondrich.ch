@@ -94,31 +94,6 @@ content:
         label: Body
         type: rich-text
         required: true
-  - name: infos
-    label: Infos
-    path: content/infos.md
-    type: file
-    fields:
-      - name: title
-        label: Title
-        type: string
-        required: true
-      - name: type
-        label: Type
-        type: select
-        options:
-          values: [ special ]
-        required: true
-      - name: layout
-        label: Layout
-        type: select
-        options:
-          values: [ simple ]
-        required: true
-      - name: body
-        label: Body
-        type: rich-text
-        required: true
   - name: kontakt
     label: Kontakt
     path: content/kontakt.md
