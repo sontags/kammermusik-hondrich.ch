@@ -50,3 +50,7 @@ content:
         label: Musicians
         type: string
         list: true
+    view:
+      fields: [ title, date ]
+      primary: title
+      sort: [ date, title ]
