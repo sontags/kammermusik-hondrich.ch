@@ -36,6 +36,7 @@ content:
         type: date
         options:
           time: true
+          format: yyyy-MM-dd'T'HH:mm:ssXXX
         required: true
       - name: publishDate
         label: Publish Date
