@@ -15,10 +15,11 @@ content:
         label: Subtitle
         type: text
         required: true
-  - name: current
-    label: Current Saison
-    path: content/saisons/2025
+  - name: saisons
+    label: Saisons
+    path: content/saisons
     type: collection
+    subfolders: true
     exclude:
       - _index.md
     fields:
