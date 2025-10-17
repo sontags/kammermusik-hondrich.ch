@@ -74,4 +74,4 @@ content:
       default:
         search: ''
         sort: date
-        order: asc
+        order: desc
