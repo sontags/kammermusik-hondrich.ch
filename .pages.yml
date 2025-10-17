@@ -54,3 +54,4 @@ content:
       fields: [ title, date ]
       primary: title
       sort: [ date, title ]
+      layout: tree
