@@ -9,11 +9,11 @@ content:
     fields:
       - name: title
         label: Title
-        type: text
+        type: string
         required: true
       - name: subtitle
         label: Subtitle
-        type: text
+        type: string
         required: true
       - name: body
         label: Body
@@ -29,7 +29,7 @@ content:
     fields:
       - name: title
         label: Title
-        type: text
+        type: string
         required: true
       - name: date
         label: Date
@@ -75,3 +75,28 @@ content:
         search: ''
         sort: date
         order: desc
+  - name: infos
+    label: Infos
+    path: content/infos.md
+    type: file
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: type
+        label: Type
+        type: select
+        options:
+          values: [ special ]
+        required: true
+      - name: layout
+        label: Layout
+        type: select
+        options:
+          values: [ simple ]
+        required: true
+      - name: body
+        label: Body
+        type: rich-text
+        required: true
