@@ -72,7 +72,7 @@ content:
       default:
         search: ''
         sort: date
-        order: desc
+        order: asc
   - name: infos
     label: Infos
     path: content/infos.md
