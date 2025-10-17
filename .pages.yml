@@ -15,6 +15,10 @@ content:
         label: Subtitle
         type: text
         required: true
+      - name: body
+        label: Body
+        type: rich-text
+        required: true
   - name: saisons
     label: Saisons
     path: content/saisons
@@ -50,6 +54,10 @@ content:
         label: Musicians
         type: string
         list: true
+      - name: body
+        label: Body
+        type: rich-text
+        required: true
     view:
       fields: [ title, date ]
       primary: title
