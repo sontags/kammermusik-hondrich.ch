@@ -2,6 +2,19 @@ media:
   input: static
   output: /
 content:
+  - name: homepage
+    label: Homepage
+    path: content/_index.md
+    type: file
+    fields:
+      - name: title
+        label: Title
+        type: text
+        required: true
+      - name: subtitle
+        label: Subtitle
+        type: text
+        required: true
   - name: current
     label: Current Saison
     path: content/saisons/2025
