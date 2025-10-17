@@ -69,8 +69,6 @@ content:
       primary: title
       sort: [ date, title ]
       layout: tree
-      node:
-        filename: _index.md
       default:
         search: ''
         sort: date
