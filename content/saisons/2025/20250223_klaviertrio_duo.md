@@ -3,7 +3,7 @@ title: "Musik für Klaviertrio und Duo"
 date: "2025-02-23T17:00:00+01:00"
 publishDate: "2021-12-10T16:00:00+01:00"
 image: "/2025_trio_kellerdugachganz.jpg"
-concertId: "o-clms63hch710uk3e6v80_e-cstlh8hch7147an3fn5g"
+concertId: "e-d3useki2afrem041p670"
 musicians:
 - Alexandre Dubach, Violine
 - Maxime Ganz, Cello

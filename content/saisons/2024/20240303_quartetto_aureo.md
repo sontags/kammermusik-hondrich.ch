@@ -3,7 +3,7 @@ title: "Quartetto Aureo"
 date: "2024-03-03T17:00:00+01:00"
 publishDate: "2021-12-10T16:00:00+01:00"
 image: "/2024_Quartetto_Aureo.jpg"
-concertId: "o-clms63hch710uk3e6v80_e-cln8f41ch7120dcb9qrj"
+concertId: "e-d3useki2afrem041p59g"
 musicians:
 - Franziska Grütter, Violine
 - Michael Keller, Violine
