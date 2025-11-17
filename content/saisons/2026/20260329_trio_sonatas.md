@@ -14,7 +14,7 @@ _(Dieses Konzert findet in der Kulturkapelle Spiez statt)_
 
 __Johann Sebastian Bach (1685-1750)__  
 Triosonate G-Dur BWV 1039  
-Adagio - Allegro ma non presto - Adagio e piano - Presto
+Adagio - Allegro ma non presto - Adagio e piano - Presto  
 _Dieses Werk ist Bachs originale Bearbeitung einer Sonate für Viola
 da Gamba und obligates Cembalo für die Besetzung von zwei Flöten und
 Basso continuo._
@@ -38,7 +38,7 @@ Vivace - Adagio - Allegro
 _Dieses Werk wurde analog der Triosonate in G-Dur BWV 1039 nach Bachs
 Sonate für Viola da Gamba und obligates Cembalo rekonstruiert._
 
-__Die Musiker:innen__
+## Die Musiker:innen
 
 Als Corona-Projekt im Familienkreis beschreiben Ana Oltean, Kaspar
 Zehnder und Vital Julian Frey ihr Programm mit authentischen,
@@ -64,7 +64,7 @@ im Instrumentalspiel» findet internationale Beachtung und ist
 die Basis für ihre Lehrtätigkeit an verschiedenen Musik- und
 Hochschulen Europas.
 
-<www.anaoltean.com>
+[www.anaoltean.com](https://www.analotean.com/)
 
 __Kaspar Zehnder__ (Flöte) wurde in Riggisberg BE geboren. Studium
 bis zum Solistendiplom in Bern bei Heidi Indermühle, anschliessend
@@ -77,7 +77,7 @@ an der Philharmonie Hradec Králové/Tschechien. 1999-2021 Künstlerischer
 Leiter der Murten Classics. Seit 2015 Künstlerischer Leiter
 des Festivals Klangantrisch.
 
-<www.kasparzehnder.com>
+[www.kasparzehnder.com](https://www.kasparzehnder.com/)
 
 Der aus Genf stammende Cembalist Vital __Julian Frey__ zählt heute zu
 den spektakulärsten Vertretern seines Instruments. Er erhielt seine
@@ -109,7 +109,7 @@ sind dabei Werke Mozarts.
 Seit 2016 ist Vital Julian Frey Intendant und künstlerischer Leiter der
 Bachwochen Thun.
 
-<www.vitalfrey.com>
+[www.vitalfrey.com](https://www.vitalfrey.com/)
 
 **_Dieses Konzert findet in der Kulturkapelle Spiez statt:_**  
 _Kulturkapelle Spiez_  

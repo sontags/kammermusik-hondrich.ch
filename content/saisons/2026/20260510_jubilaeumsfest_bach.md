@@ -34,7 +34,7 @@ kompositorischen Handschriften zu Brun Brunner Bach.
 Für BACH & more wird das Duo Albin Brun und Kristina Brunner durch Evelyn
 Brunner am Kontrabass zum Trio erweitert.
 
-__Die Musiker:innen__
+## Die Musiker:innen
 
 __Kristina Brunner__ studierte nach der Matura Cello mit Schwerpunkt
 Volksmusik (Bachelorstudium) und Schwyzerörgeli bei Markus
