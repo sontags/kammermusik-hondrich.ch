@@ -64,7 +64,7 @@ im Instrumentalspiel» findet internationale Beachtung und ist
 die Basis für ihre Lehrtätigkeit an verschiedenen Musik- und
 Hochschulen Europas.
 
-[www.anaoltean.com](https://www.analotean.com/)
+[www.anaoltean.com](https://www.anaoltean.com/)
 
 __Kaspar Zehnder__ (Flöte) wurde in Riggisberg BE geboren. Studium
 bis zum Solistendiplom in Bern bei Heidi Indermühle, anschliessend
@@ -109,7 +109,7 @@ sind dabei Werke Mozarts.
 Seit 2016 ist Vital Julian Frey Intendant und künstlerischer Leiter der
 Bachwochen Thun.
 
-[www.vitalfrey.com](https://www.vitalfrey.com/)
+[www.vitalfrey.com](http://www.vitalfrey.com/)
 
 **_Dieses Konzert findet in der Kulturkapelle Spiez statt:_**  
 _Kulturkapelle Spiez_  
