@@ -53,8 +53,12 @@
         <div class="panel details">
             <div class="booking-second-step"><p>Geben Sie Namen und Emailadresse an:</p></div>
             <div class="form_row">
-                <div class="input"><input placeholder="Name Vorname" id="name" class="beachtowel_name" type="text" name="name" data-beachtowel-event="{{$cid}}"></div>
-                <div class="info"><div class="beachtowel_name_info" data-beachtowel-event="{{$cid}}"></div></div>
+                <div class="input"><input placeholder="Vorname" id="first_name" class="beachtowel_first_name" type="text" name="first_name" data-beachtowel-event="{{$cid}}"></div>
+                <div class="info"><div class="beachtowel_first_name_info" data-beachtowel-event="{{$cid}}"></div></div>
+            </div>
+            <div class="form_row">
+                <div class="input"><input placeholder="Nachname" id="surname" class="beachtowel_surname" type="text" name="surname" data-beachtowel-event="{{$cid}}"></div>
+                <div class="info"><div class="beachtowel_surname_info" data-beachtowel-event="{{$cid}}"></div></div>
             </div>
             <div class="form_row">
                 <div class="input"><input placeholder="Email" id="email" class="beachtowel_email" type="text" name="email" data-beachtowel-event="{{$cid}}"></div>
@@ -108,7 +112,8 @@
             lockedElementId: "beachtowel_wrapper",
             mapElementId: "beachtowel-map",
             emailElementId: "email",
-            nameElementId: "name",
+            firstNameElementId: "first_name",
+            surnameElementId: "surname",
             sendElementId: "send",
         }
         bt.setup(setupConfig, finalizeReservation, whenLocked);
