@@ -1,33 +1,42 @@
 ---
 {
     "title": "Kammermusikkonzerte Hondrich",
-    "subtitle": "Saison 2025"
+    "subtitle": "Saison 2026"
 }
 ---
 
-![Niesen, Benedicht Friedli](/2025_niesen.png)
+![Blumen, Benedicht Friedli](/2026_blumen.jpg)
 
 __Fünf Konzerte im grossen Saal des Inforamas Hondrich__
 
 Liebes Publikum
 
-Wir haben ein reichhaltiges Programm zusammengestellt mit unserem bewährten Rezept:
-Bekannte Ensembles und Musikerpersönlichkeiten treffen auf ein Konzert mit den jüngsten,
-begeisterten und talentierten Musiker:innen aus dem Kanton Bern. Damit geben wir einmal
-mehr die Bühne frei für die zukünftige Musiker-Generation.
+Mit einem leuchtenden Blumenstrauss gemalt von Bendicht Friedli und
+einem ebenso farbigen Programm feiern wir mit Ihnen 30 Jahre Kammermusikkonzerte
+Hondrich. Wir sind sehr glücklich und auch ein bisschen
+stolz, dass uns dieses Projekt schon so lange erfüllt und begeistert.
+Die kleine Konzertreihe abseits der grossen Zentren und mondänen
+Festivals lebt dank den vielen Musiker:innen, die bereit sind, in Hondrich
+(«Wo ist denn das?») aufzutreten, dank der Treue des Publikums, der
+beachtlichen Unterstützung durch die Gemeinde Spiez und den Kanton
+Bern und dank der offenen Türe des Inforamas Hondrich.
 
-Im Januar beginnt die Saison traditionell mit den beiden Neujahrskonzerten des
-Salonquintetts «I Galanti».
+Für die Jubliäumssaison haben wir Künstler:innen und Ensembles angefragt,
+die eine enge Beziehung zu den Kammermusikkonzerten
+Hondrich und zum Berner Oberland haben:
 
-Im Februarkonzert spielen die befreundeten Musiker:innen Dubach-Ganz-Keller ein interessantes
-Programm mit Werken, die allesamt vor rund hundert Jahren komponiert wurden.
+Natürlich eröffnen «I Galanti» die Saison wie immer mit den beiden
+beflügelnden Neujahrskonzerten. Für anfangs März konnten wir den international
+bekannten Pianisten Reto Reichenbach engagieren. Er ist im
+Turbachtal aufgewachsen und hat schon mehrmals bei uns konzertiert.
+Ende März freuen wir uns auf Kaspar Zehnder, der die Konzertreihe
+einige Jahre mitgeprägt hat. Er gestaltet ein Konzert mit Ana Oltean und
+dem bekannten Cembalisten Vital Julian Frey mit Werken von Bach.
 
-Das Programm des März-Konzertes mit der kantonalen Talentförderung steht noch nicht im Detail
-fest. Wir versprechen aber schon heute, dass sich ein Besuch lohnen wird: Diese Konzerte sind
-immer ausserordentlich vielfältig und berührend. 
+Am 10. Mai feiern wir dann so richtig mit einem Doppelkonzert: Es
+erwartet Sie im ersten Teil ein Programm mit familiärer Duo-, Trio- und
+Quartettbesetzung und nach einem üppigen Kuchenbuffet spielen die
+Schwestern Brunner mit Albin Brun Bach & more.
 
-Und im April freuen wir uns auf das Wiedersehen mit dem Ensemble «Tango Salón», von dem sich
-das Hondricher Publikum schon mehrmals verführen und begeistern liess.
-
-Wir danken Ihnen für Ihr Interesse und freuen uns sehr auf die Konzerte.  
+Wir danken Ihnen für Ihre langjährige Treue und freuen uns sehr auf die Konzerte.  
 Bettina Keller und Franziska Grütter, Bern/Uetendorf im November 2025
