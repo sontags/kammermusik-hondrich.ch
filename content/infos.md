@@ -18,17 +18,17 @@ Fliederweg 31
 __Eintrittspreise (nur Barzahlung)__  
 • Einzelkarten Fr. 30.-, Kinder im Schulalter Fr. 10.-  
 • Abonnement für 4 Konzerte (übertragbar) Fr. 100.-  
-• Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-  
+• Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-
+• Kombiticket für die beiden Jubiläumskonzerte Fr. 55.-
 
 Programmänderungen vorbehalten.
 
-
 __Zeiten__  
-Die Konzerte im Januar, Februar und März finden um 17:00 Uhr im Grossen Saal des Inforamas 3702 Hondrich, Hofstatt statt.  
-Das Konzert am 27. April findet in der Kulturkapelle Spiez, Kapellenstrasse 9 statt.
+Die Konzerte finden im Grossen Saal des Inforamas Hondrich, Hofstatt 3702 statt.  
+Das Konzert am 29. März findet in der Kulturkapelle Spiez, Kapellenstrasse 9 statt.
 
-Ab 16:15 Uhr ist die Kasse geöffnet (in der Kulturkapelle ab 16:30 Uhr). Nach dem Konzert findet jeweils ein Apéro mit den Musikerinnen und
-Musikern statt.
+Ab 16:15 Uhr ist die Kasse geöffnet (in der Kulturkapelle ab 16:30 Uhr). Nach dem Konzert
+findet jeweils ein Apéro mit den Musikerinnen und Musikern statt.
 
 __Anreise__  
 Die Kammermusikkonzerte Hondrich erreichen Sie bequem mit dem öffentlichen Verkehr.
@@ -38,7 +38,7 @@ Züge nach Spiez:
 • Interlaken Ost ab 16:07 Uhr  
 • Frutigen ab 16:01 Uhr  
 
-Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus: Spiez ab 16:37 Uhr
+Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus: Spiez ab 16:38 Uhr
 
 __Rückreise__  
 Hondrich ab 19:09 Uhr, 19:27 Uhr und 20:09 Uhr mit Anschluss an die Züge im Bahnhof Spiez Richtung Thun/Bern, Interlaken und Frutigen.
