@@ -3,15 +3,15 @@
 {{ end }}
 
 {{ define "content" }}
-{{ if isset .Params "date_unknown" }}
-<h2>Datum noch nicht bekannt</h2>
-{{ else }}
-<h2>{{ index $.Site.Data.tage (printf "%d" .Date.Weekday) }}, {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}, {{ .Date.Format "15:04" }} Uhr</h2>
-{{ end }}
 
-{{ if isset .Params "location" }}
-<h2>{{ .Param "location" }}</h2>
+<h2>
+{{ if isset .Params "date_unknown" }}
+Datum noch nicht bekannt
+{{ else }}
+{{ index $.Site.Data.tage (printf "%d" .Date.Weekday) }}, {{ .Date.Day }}. {{  index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}, {{ .Date.Format "15:04" }} Uhr
 {{ end }}
+{{ if isset .Params "location" }}<br>{{ .Param "location" }}{{ end }}
+</h2>
 
 <h1>{{ .Title }}</h1>
 
