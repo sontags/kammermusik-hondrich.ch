@@ -16,10 +16,10 @@ Fliederweg 31
 3661 Uetendorf
 
 __Eintrittspreise (nur Barzahlung)__  
-- Einzelkarten Fr. 30.-, Kinder im Schulalter Fr. 10.-  
-- Abonnement für 4 Konzerte (übertragbar) Fr. 100.-  
-- Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-
-- Kombiticket für die beiden Jubiläumskonzerte Fr. 55.-
+- • Einzelkarten Fr. 30.-, Kinder im Schulalter Fr. 10.-  
+- • Abonnement für 4 Konzerte (übertragbar) Fr. 100.-  
+- • Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-
+- • Kombiticket für die beiden Jubiläumskonzerte Fr. 55.-
 
 Programmänderungen vorbehalten.
 
