@@ -4,14 +4,12 @@ date: "2026-03-29T17:00:00+01:00"
 publishDate: "2021-12-10T16:00:00+01:00"
 image: "/2026_trio_sonatas.jpg" 
 concertId: "e-d4dfb5r4f44q56h7gbag"
-location: "Dieses Konzert finden in der Kulturkapelle Spiez statt."
+location: "Dieses Konzert findet in der Kulturkapelle Spiez statt."
 musicians:
 - Ana Ioana Oltean, Flöte
 - Kaspar Zehnder, Flöte
 - Vital Julian Frey, Cembalo
 ---
-
-_(Dieses Konzert findet in der Kulturkapelle Spiez statt)_
 
 __Johann Sebastian Bach (1685-1750)__  
 Triosonate G-Dur BWV 1039  
