@@ -66,7 +66,7 @@ für Kontrabass an der Hochschule der Künste Bern, Mitglied des Salonquintetts
 als Pianistin und Kontrabassistin auf. Bettina Keller ist bekannt
 für ihre Musikvermittlungsprojekte und wurde mehrfach ausgezeichnet.
 
-Carla Keller (Violoncello) spielt seit ihrer frühen Kindheit Musik auf
+__Carla Keller__ (Violoncello) spielt seit ihrer frühen Kindheit Musik auf
 den Instrumenten Kontrabass, Klavier und Cello. Nach dem PreCollege
 an der Hochschule der Künste Bern bei Matthias Schranz folgte
 der Bachelor Cello an der Zürcher Hochschule der Künste bei Orfeo
