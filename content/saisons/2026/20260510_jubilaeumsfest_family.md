@@ -29,6 +29,9 @@ Allegro
 Andante  
 Rondo: Allegro moderato  
 
+_Dieses Konzert ist Teil unseres Jubiläumsfests. Zwischen den beiden Konzerten
+freuen wir uns auf all jene, die mit uns bei Kaffee und Kuchen feiern!_
+
 __Die Musiker:innen__
 
 __Franziska Grütter__ (Violine) schloss ihr Studium an der Hochschule in
@@ -57,15 +60,6 @@ Leidenschaft für Kammermusik mit verschiedenen Ensembles
 und solistische Auftritte ermöglichen es ihm, auch das Schweizer
 Musikschaffen immer wieder in seine Konzertprogramme aufzunehmen.
 
-__Bettina Keller__ (Klavier) studierte an der Hochschule für Musik in
-Bern Klavier bei Erika Radermacher und Kontrabass bei Béla Szedlàk.
-Sie unterrichtet seit 1995 Kontrabass an der Musikschule Konsibern.
-Sie ist Dozentin für Fachdidaktik und praktische Pädagogik
-für Kontrabass an der Hochschule der Künste Bern, Mitglied des Salonquintetts
-«I Galanti» und des Orchesters OPUS Bern und tritt regelmässig
-als Pianistin und Kontrabassistin auf. Bettina Keller ist bekannt
-für ihre Musikvermittlungsprojekte und wurde mehrfach ausgezeichnet.
-
 __Carla Keller__ (Violoncello) spielt seit ihrer frühen Kindheit Musik auf
 den Instrumenten Kontrabass, Klavier und Cello. Nach dem PreCollege
 an der Hochschule der Künste Bern bei Matthias Schranz folgte
@@ -80,3 +74,13 @@ sich Carla sehr für neue Musik und Improvisation. Ausserdem
 bedeuten ihr auch bildnerische Künste (besonders Film) sehr viel.
 Carla Keller spielt dank einer Leihgabe der SINFONIMA-Stiftung
 Mannheim ein Cello von Onorato Gragnani aus dem Jahre 1783.
+
+__Bettina Keller__ (Klavier) studierte an der Hochschule für Musik in
+Bern Klavier bei Erika Radermacher und Kontrabass bei Béla Szedlàk.
+Sie unterrichtet seit 1995 Kontrabass an der Musikschule Konsibern.
+Sie ist Dozentin für Fachdidaktik und praktische Pädagogik
+für Kontrabass an der Hochschule der Künste Bern, Mitglied des Salonquintetts
+«I Galanti» und des Orchesters OPUS Bern und tritt regelmässig
+als Pianistin und Kontrabassistin auf. Bettina Keller ist bekannt
+für ihre Musikvermittlungsprojekte und wurde mehrfach ausgezeichnet.
+

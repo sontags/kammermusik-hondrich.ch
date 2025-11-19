@@ -4,7 +4,7 @@ date: 2026-05-10T18:00:00Z
 publishDate: 2021-12-10T15:00:00Z
 image: /2026_bach.jpg
 concertId: "e-d4dfdhr4f44q56h7gbbg"
-homepage: evelyn-kristina-brunner.ch
+homepage: www.evelyn-kristina-brunner.ch
 musicians:
 - Kristina Brunner, Schwyzerörgeli und Cello
 - Albin Brun, Sopran- und Tenorsax sowie Schwyzerörgeli
@@ -34,6 +34,9 @@ kompositorischen Handschriften zu Brun Brunner Bach.
 Für BACH & more wird das Duo Albin Brun und Kristina Brunner durch Evelyn
 Brunner am Kontrabass zum Trio erweitert.
 
+_Dieses Konzert ist Teil unseres Jubiläumsfests. Zwischen den beiden Konzerten
+freuen wir uns auf all jene, die mit uns bei Kaffee und Kuchen feiern!_
+
 ## Die Musiker:innen
 
 __Kristina Brunner__ studierte nach der Matura Cello mit Schwerpunkt
@@ -44,7 +47,7 @@ der Region Gürbetal und der Stadt Luzern. Dazu pflegt sie
 eine rege Konzerttätigkeit, vor allem im Duo mit Evelyn Brunner und
 Albin Brun.
 
-__Albin Brun__ (schloss nach seinen Anfängen als Folk- und Strassenmusiker
+__Albin Brun__ schloss nach seinen Anfängen als Folk- und Strassenmusiker
 in Luzern ein Schulmusik-Studium ab und bildete sich an
 div. Jazzschulen weiter. Schon früh spielte der Multiinstrumentalist
 seine Kompositionen mit der "Interkantonalen Blasabfuhr" und verschiedenen

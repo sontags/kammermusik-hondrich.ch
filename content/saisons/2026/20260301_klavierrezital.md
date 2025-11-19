@@ -15,7 +15,7 @@ Scherzo Nr. 3, cis-Moll, Op. 39
 
 __Franz Liszt (1811–1886)__  
 Aus den 3 Études de concert  
-2. La leggierezz
+2. La leggierezza
 
 __Joseph Haydn (1732–1809)__  
 Klaviersonate in C-Dur, Hob. XVI:50  
