@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,500,700');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,500,500i,700');
 
 html, body {
     font-family: var(--font-family);
@@ -45,8 +45,24 @@ html, body {
     font-style: italic;
 }
 
-.text>h2, .text>h3 {
+.text>h2 {
     text-transform: uppercase;
+}
+
+.text>h3 {
+    font-size: var(--font-size-regular);
+    font-weight: 500;
+    font-style: italic;
+    padding-bottom: 15px;
+}
+
+.main .text ul {
+    list-style: disc inside;
+    margin-bottom: 30px;
+}
+
+.main .text ul li {
+    display: list-item;
 }
 
 .text>ul.musicians {

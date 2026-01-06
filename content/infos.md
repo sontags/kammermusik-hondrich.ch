@@ -15,11 +15,12 @@ Franziska Grütter
 Fliederweg 31  
 3661 Uetendorf
 
-__Eintrittspreise (nur Barzahlung)__  
-- • Einzelkarten Fr. 30.-, Kinder im Schulalter Fr. 10.-  
-- • Abonnement für 4 Konzerte (übertragbar) Fr. 100.-  
-- • Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-
-- • Kombiticket für die beiden Jubiläumskonzerte Fr. 55.-
+__Eintrittspreise (nur Barzahlung)__
+
+- Einzelkarten Fr. 30.-, Kinder im Schulalter Fr. 10.-
+- Abonnement für 4 Konzerte (übertragbar) Fr. 100.-
+- Schnupperabonnement für 2 Konzerte (nicht übertragbar) Fr. 55.-
+- Kombiticket für die beiden Jubiläumskonzerte Fr. 55.-
 
 Programmänderungen vorbehalten.
 
@@ -33,10 +34,11 @@ findet jeweils ein Apéro mit den Musikerinnen und Musikern statt.
 __Anreise__  
 Die Kammermusikkonzerte Hondrich erreichen Sie bequem mit dem öffentlichen Verkehr.
 
-Züge nach Spiez:  
-• Bern ab 16:04 Uhr  
-• Interlaken Ost ab 16:07 Uhr  
-• Frutigen ab 16:01 Uhr  
+Züge nach Spiez:
+
+- Bern ab 16:04 Uhr
+- Interlaken Ost ab 16:07 Uhr
+- Frutigen ab 16:01 Uhr  
 
 Postauto Richtung Aeschi bis Haltestelle Hondrich Schulhaus: Spiez ab 16:38 Uhr
 
