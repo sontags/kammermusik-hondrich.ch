@@ -8,7 +8,7 @@ homepage: www.evelyn-kristina-brunner.ch
 musicians:
 - Kristina Brunner, Schwyzerörgeli und Cello
 - Albin Brun, Sopran- und Tenorsax sowie Schwyzerörgeli
-- Evelyn Brunner, Kontrabas
+- Evelyn Brunner, Kontrabass
 ---
 
 Auf Initiative der Privatperson Stefan Gutzwiller setzten sich Albin Brun
